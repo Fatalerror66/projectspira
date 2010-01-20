@@ -1,0 +1,1148 @@
+KEYITEMNAME                         KEYITEM#
+.                                          0
+Zeruhn report                             1
+Palborough Mines logs                     2
+Blue acidity tester                       3
+Red acidity tester                        4
+Letter to the consuls                     5
+Letter to the consuls                     6
+Letter to the consuls                     7
+Airship pass                              8
+Airship pass for Kazham                   9
+Overdue book notification                 A
+Letter from Domien                        B
+C. L. report                              C
+Kindred crest                             D
+Magicite: Optistone                       E
+Magicite: Aurastone                       F
+Magicite: Orastone                       10
+Food offering                            11
+Drink offering                           12
+Clock tower oil                          13
+Yagudo torch                             14
+Crest of Davoi                           15
+Letter to Aldo                           16
+Bouquet for the pioneers                 17
+Old toolbox                              18
+Note from Hariga-Origa                   19
+Note from Ipupu                          1A
+Art For Everyone                         1B
+Cracked Mana Orb                         1C
+Kindred report                           1D
+Letter to the ambassador                 1E
+Sword offering                           1F
+Shield offering                          20
+Dull sword                               21
+Dark key                                  22
+Adventurer's Certificate                  23
+Starway Stairway bauble                   24
+First dark Mana Orb                      25
+Creature Counter" magic doll             26
+Off offering                             27
+Windurst Waters scoop                    28   5 1
+Windurst Walls scoop                     29   5 2
+Port Windurst scoop                      2A   5 4
+Windurst Woods scoop                     2B   5 8
+Temple Knights' Davoi report             2C   510
+Silver bell                              2D   520
+Coruscant rosary                         2E   540
+Black matinee necklace                   2F   580
+Ducal Guard's lantern                    30   6 1
+Ducal Guard's lantern                    31   6 2
+Holy candle                              32   6 4
+Second dark Mana Orb                     33   6 8
+Third dark Mana Orb                      34   610
+Fourth dark Mana Orb                     35   620
+Fifth dark Mana Orb                      36   640
+Sixth dark Mana Orb                      37   680
+Archducal audience permit                38   7 1
+Super soup pot                           39   7 2
+Two of Swords                            3A   7 4
+First glowing Mana Orb                   3B   7 8
+Second glowing Mana Orb                  3C   710
+Third glowing Mana Orb                   3D   720
+Fourth glowing Mana Orb                  3E   740
+Fifth glowing Mana Orb                   3F   780
+Sixth glowing Mana Orb                   40   8 1
+Rescue training certificate              41   8 2
+Charm of light                           42   8 4
+Hideout key                              43   8 8
+Lapis coral                              44   810
+Message to Jeuno                         45   820
+Message to Jeuno                         46   840
+Message to Jeuno                         47   880
+New Fei'Yin seal                         48   9 1
+Burnt seal                               49   9 2
+Shadow fragment                          4A   9 4
+Ronfaure supplies                        4B   9 8
+Zulkheim supplies                        4C   910
+Norvallen supplies                       4D   920
+Gustaberg supplies                       4E   940
+Derfland supplies                        4F   980
+Sarutabaruta supplies                    50  A  1
+Kolshushu supplies                       51  A  2
+Aragoneu supplies                        52  A  4
+Fauregandi supplies                      53  A  8
+Valdeaunia supplies                      54  A 10
+Li'Telor supplies                        55  A 20
+Kuzotz supplies                          56  A 40
+Vollbow supplies                         57  A 80
+Lapis monocle                            58  B  1
+Donation envelope                        59  B  2
+Aragoneu pizza                           5A  B  4
+Land crab bisque                         5B  B  8
+Mhauran couscous                         5C  B 10
+Etched ring                              5D  B 20
+Trader's sack                            5E  B 40
+Fake moustache                           5F  B 80
+Gardenia pass                            60  C  1
+Weapons order                            61  C  2
+Weapons receipt                          62  C  4
+Small bag                                63  C  8
+Ranpi-Monpi's special stew               64  C 10
+Ferry ticket                             65  C 20
+Stamp sheet                              66  C 40
+Lost document                            67  C 80
+East Block code                          68  D  1
+South Block code                          69  D  2
+North Block code                          6A  D  4
+Letter from Roh Latteh                    6B  D  8
+Painting of a windmil                     6C  D 10
+Tattered mission orders.                  6D  D 20
+Monastic Cavern key                      6E  D 40
+Moon crystal                             6F  D 80
+Southeastern star charm                  70  E  1
+Wonder Magic Set                         71  E  2
+Unfinished letter                        72  E  4
+New model hat                            73  E  8
+Angelica's autograph                     74  E 10
+Old tiger's fang                         75  E 20
+Tenshodo Member's Card                   76  E 40
+Receipt for the prince                   77  E 80
+Magic trash                              78  F  1
+Tenshodo application form                79  F  2
+Sharp gray stone                         7A  F  4
+Cathedral donation                       7B  F  8
+Qufim supplies                           7C  F 10
+Tattered test sheet                      7D  F 20
+A Song of Love                           7E  F 40
+Steaming Sheep invitation                7F  F 80
+Broken wand                              80  10 1
+Gulemont's document                      81  10 2
+Old ring                                 82  10 4
+White orb                                83  10 8
+Pink orb                                 84  1010
+Red orb                                  85  1020
+Blood orb                                86  1040
+Cursed orb                               87  1080
+Crimson orb                              88  11 1
+Key to the Oztroja mines                 89  11 2
+Chocobo license                          8A  11 4
+Cursepaper                               8B  11 8
+Corrupted dirt                           8C  1110
+Stalactite dew                           8D  1120
+Squire certificate                       8E  1140
+Book of Tasks                            8F  1180
+Book of the East                          90  12 1
+Book of the West                         91  12 2
+Knight's soul                            92  12 4
+Cold medicine                            93  12 8
+Amaura's formula                         94  1210
+Overdue book notification                95  1220
+Scripture of Water                       96  1240
+Scripture of Wind                        97  1280
+Tami's note                              98  13 1
+Thyme moss                               99  13 2
+Cough medicine                           9A  13 4
+Scroll of treasure                       9B  13 8
+Code of Beastmasters                     9C  1310
+Orcish hut key                           9D  1320
+Star crested summons                     9E  1340
+Brugaire goods                           9F  1380
+Small teacup                             A0  14 1
+Suspicious envelope                      A1  14 2
+Carrier pigeon letter                    A2  14 4
+Carmelo's song sheet                     A3  14 8
+Curilla's bottle                         A4  1410
+Curilla's bottle                         A5  1420
+Neutralizer                              A6  1440
+Goldsmithing order                       A7  1480
+Mythril hearts                           A8  15 1
+Testimonial                              A9  15 2
+Letter from Zeid                         AA  15 4
+Shantotto's new spell                    AB  15 8
+Shantotto's ex-spell                     AC  1510
+Bucket of divine paint                   AD  1520
+Letter from Virnage                      AE  1540
+Spirit incense                           AF  1580
+Gantineux's letter                       B0  16 1
+Seal of banishing                        B1  16 2
+Magical pattern                           B2  16 4
+Fei'Yin magic tome                        B3  16 8
+Sluice Surveyor Mk. I                     B4  1610
+Foe Finder Mk. I                          B5  1620
+Earthen charm                             B6  1640
+Letter from the Tenshodo                 B7  1680
+Tenshodo envelope                        B8  17 1
+Signed envelope                          B9  17 2
+Gang whereabouts note                    BA  17 4
+First forged envelope                    BB  17 8
+Second forged envelope                   BC  1710
+First signed forged envelope             BD  1720
+Second signed forged envelope            BE  1740
+Letter from Dalzakk                      BF  1780
+San d'Orian martial arts scroll          C0  18 1
+Bomb incense                             C1  18 2
+Perchond's envelope                      C2  18 4
+Portal charm                             C3  18 8
+Orcish dried food                        C4  1810
+Old pocket watch                         C5  1820
+Old boots                                C6  1840
+Balga champion certificate               C7  1880
+Holy One's oath                          C8  19 1
+Crawler blood                            C9  19 2
+Cat Burglar's note                       CA  19 4
+Chieftainness's twinstone earring        CB  19 8
+Northern vine                            CC  1910
+Southern vine                            CD  1920
+Eastern vine                             CE  1940
+Western vine                             CF  1980
+Sword grip material                      D0 1A  1
+Yasin's sword                            D1 1A  2
+Old gauntlets                            D2 1A  4
+Shadow flames                            D3 1A  8
+Firebloom Tree wood                      D4 1A 10
+Letter to Angelica                       D5 1A 20
+Final Fantasy                            D6 1A 40
+Ripped "Final Fantasy" painting          D7 1A 80
+Final Fantasy Part II                    D8 1B  1
+Tamer's whistle                           D9 1B  2
+Knight's boots                           DA 1B  4
+Mique's paintbrush                       DB 1B  8
+Strange sheet of paper                   DC 1B 10
+Knight's confession                      DD 1B 20
+Round frigicite                          DE 1B 40
+Square frigicite                         DF 1B 80
+Triangular frigicite                     E0 1C  1
+Star ring                                E1 1C  2
+Star ring                                E2 1C  4
+Moon ring                                E3 1C  8
+Mertaire's bracelet                      E4 1C 10
+Aquaflora                                E5 1C 20
+Aquaflora                                E6 1C 40
+Aquaflora                                E7 1C 80
+Guiding bell                             E8 1D  1
+Ordelle whetstone                        E9 1D  2
+Letter from the Darksteel Forge          EA 1D  4
+Darksteel Formula                        EB 1D  8
+Koh's letter                             EC 1D 10
+Royal Knights' Davoi report              ED 1D 20
+Sacrificial Chamber key                  EE 1D 40
+Fire fragment                            EF 1D 80
+Water fragment                           F0 1E  1
+Earth fragment                           F1 1E  2
+Wind fragment                            F2 1E  4
+Lightning fragment                       F3 1E  8
+Ice fragment                             F4 1E 10
+Light fragment                           F5 1E 20
+Dark fragment                            F6 1E 40
+Prismatic fragment                       F7 1E 80
+Southwestern star charm                  F8 1F  1
+Holy One's invitation                    F9 1F  2
+Optistery ring                           FA 1F  4
+Blank Book of the Gods                   FB 1F  8
+Book of the Gods                         FC 1F 10
+Nonberry's knife                         FD 1F 20
+Sublime statue of the Goddess            FE 1F 40
+Rauteinot's parcel                        FF 1F 80
+Treasure map                            100  20 1
+Strangely shaped coral                  101  20 2
+Sealed dagger                           102  20 4
+Angelica's letter                       103  20 8
+Empty barrel                            104  2010
+Barrel of Opo-Opo brew                  105  2020
+Elshimo Lowlands supplies               106  2040
+Elshimo Uplands supplies                107  2080
+Joker card                              108  21 1
+Orastery ring                           109  21 2
+Altepa moonpebble                       10A  21 4
+Rhinostery certificate                  10B  21 8
+Dreamrose                               10C  2110
+Ancient San d'Orian book                10D  2120
+Piece of paper                          10E  2140
+Invisible man sticker                   10F  2180
+Paintbrush of souls                     110  22 1
+Old rusty key                           111  22 2
+Ancient tablet fragment                 112  22 4
+Star Seeker                             113  22 8
+Aurastery ring                          114  2210
+Tablet of ancient magic                 115  2220
+Letter from Alfesar                     116  2240
+Magic-drained "Star Seeker"             117  2280
+Rhinostery ring                         118  23 1
+Manustery ring                          119  23 2
+Glove of perpetual twilight             11A  23 4
+Ancient San d'Orian tablet              11B  23 8
+Crystal dowser                          11C  2310
+Piece of a broken key                   11D  2320
+Piece of a broken key                   11E  2340
+Piece of a broken key                   11F  2380
+Drops of Amnio                          120  24 1
+Reinforced cermet                        121  24 2
+Letter from werei.                       122  24 4
+Tonberry key                            123  24 8
+Thesis on alchemy                       124  2410
+Old piece of wood                       125  2420
+Dragon curse remedy                     126  2440
+Sealed iron box                         127  2480
+Sea serpent statue                      128  25 1
+Altepa polishing stone                  129  25 2
+Challenge to the Royal Knights          12A  25 4
+Ranchuriome's legacy                    12B  25 8
+Ronfaure EF insignia                    12C  2510
+Zulkheim EF insignia                    12D  2520
+Norvallen EF insignia                   12E  2540
+Gustaberg EF insignia                   12F  2580
+Derfland EF insignia                    130  26 1
+Sarutabaruta EF insignia                131  26 2
+Kolshushu EF insignia                   132  26 4
+Aragoneu EF insigniac                    133  26 8
+Fauregandi EF insignia                  134  2610
+Valdeaunia EF insignia                  135  2620
+Qufim EF insignia                       136  2640
+Li'Telor EF insignia                    137  2680
+Kuzotz EF insignia                      138  27 1
+Vollbow EF insignia                     139  27 2
+Elshimo Lowlands EF insignia            13A  27 4
+Elshimo Uplands EF insignia             13B  27 8
+KEY ITEM                                13C  2710
+KEY ITEM                                13D  2720
+KEY ITEM                                13E  2740
+KEY ITEM                                13F  2780
+Whisper of flames                       140  28 1
+Whisper of tremors                      141  28 2
+Whisper of tides                        142  28 4
+Whisper of gales                        143  28 8
+Whisper of frost                        144  2810
+Whisper of storms                       145  2820
+Whisper of the moon                     146  2840
+Whisper of dreams                       147  2880
+Tuning fork of fire                     148  29 1
+Tuning fork of earth                    149  29 2
+Tuning fork of water                    14A  29 4
+Tuning fork of wind                     14B  29 8
+Tuning fork of ice                      14C  2910
+Tuning fork of lightning                14D  2920
+Moon bauble                             14E  2940
+Vial of dream incense                   14F  2980
+Orcish crest                            150 2A  1
+Quadav crest                            151 2A  2
+Yagudo crest                            152 2A  4
+Un Moment                               153 2A  8
+L'Ephemere                              154 2A 10
+L'Ancienne                              155 2A 20
+Chanson de Liberte                      156 2A 40
+Weapon training guide                   157 2A 80
+Map to the Annals of Truth              158 2B  1
+Annals of Truth                         159 2B  2
+Completion certificate                  15A 2B  4
+Dynamis Debugger                        15B 2B  8
+Dropped item                            15C 2B 10
+White Card                              15D 2B 20
+Red Card                                15E 2B 40
+Black Card                              15F 2B 80
+Holla gate crystal                      160 2C  1
+Dem gate crystal                        161 2C  2
+Mea gate crystal                        162 2C  4
+Vahzl gate crystal                      163 2C  8
+Yhoator gate crystal                    164 2C 10
+Altepa gate crystal                     165 2C 20
+Promyvion - Holla sliver                166 2C 40
+Promyvion - Dem sliver                  167 2C 80
+Promyvion - Mea sliver                  168 2D  1
+Whisper of the Wyrmking                  169 2D  2
+Note written by Esha'ntarl               16A 2D  4
+Rainbow resonator                        16B 2D  8
+Faded ruby                              16C 2D 10
+KEY ITEM                                16D 2D 20
+KEY ITEM                                16E 2D 40
+KEY ITEM                                16F 2D 80
+KEY ITEM                             16D-17E
+MAPS                                 17F-1BF
+Abdh. Isle-Purgonorgo                    17F
+San d'Oria                               181
+Bastok                                   182
+Windurst                                 183
+Jeuno                                    184
+Qufim                                    185
+Northlands                               186
+Ranperre's Tomb                          187
+Dangruf Wadi                             188
+Horutoto Ruins                           189
+Bostaunieux Obl...                       18A
+Zeruhn Mines                             18B
+Toraimarai Canal                         18C
+Ordelle's Cave                           18D
+Gusgen Mines                             18E
+Maze of Shakhram                         18F
+Eldieme Necropolis                       190
+Crawlers' Nest                           191
+Garlaige Citadel                         192
+Ranguemont Pass                          193
+Ghelsba                                  194
+Davoi                                    195
+Palborough Mines                         196
+Beudeau                                  197
+Giddeus                                  198
+Castle Oztroja                           199
+Delkfutt's Tower                         19A
+Fei'Yin                                  19B
+Castle Zvahl                             19C
+Elshimo                                  19D
+Kuzotz                                   19E
+Li'Telor                                 19F
+Ru'Aun                                   1A0
+Norg                                     1A1
+Temple of Uggalepih                      1A2
+Den of Rancor                            1A3
+Korroloka Tunnel                         1A4
+Kuftal Tunnel                            1A5
+Boyahda Tree                             1A6
+Ve'Lugannon                              1A7
+Ifrit's Cauldron                         1A8
+Quicksand Caves                          1A9
+Sea Serpents Grotto                      1AA
+Volbow                                   1AB
+Labrynth of the Onzozo                   1AC
+Carpenter's Landing                      1AD
+Bibiki Bay                               1AE
+Uleguerand Range                         1AF
+Attohwa Chasm                            1B0
+Pso'Xja                                  1B1
+Oldton Movopolis                         1B2
+Newton Movopolis                         1B3
+Promy Holla                              1B4
+Promy Dem                                1B5
+Promy Mea                                1B6
+Promy Vahzl                              1B7
+Tavnazia                                 1B8
+Aqueducts                                1B9
+Sacrarium                                1BA
+Cape Riverne                             1BB
+Al'Taieu                                 1BC
+Hu'Xzoi                                  1BD
+Ru'Hmet                                  1BE
+Dio Abdhaljs-Ghelsba                     1BF
+Daze-breaker charm                       1C0
+Shiney earring                           1C1
+Carbuncle's Tear                         1C2
+Scrap of papyrus                         1C3
+Cerulean crystal                         1C4
+Handful of crystal scales                1C5
+Charred helm                             1C6
+Shard of Apathy                          1C7
+Shard of Arrogance                       1C8
+Shard of Cowardice                       1C9
+Shard of Envy                            1CA
+Shard of Rage                            1CB
+Trick box                                1CC
+Washu's tasty wurst                      1CD
+Yomotsu feather                          1CE
+Yomotsu Hirasaka                         1CF
+Faded Yomotsu Hirasaka                   1D0
+Seance staff                             1D1
+Smiling stone                            1D2
+Scowling stone                           1D3
+Somber stone                             1D4
+Spirited stone                           1D5
+Old trick box                            1D6
+Large trick box                          1D7
+Indigested stalagmite                    1D8
+Indigested ore                           1D9
+Indigested meat                          1DA
+Letter from Zonpa-Zippa                  1DB
+Moondrop                                 1DC
+Miraclesalt                              1DD
+Ancient Verse of Ro'Maeve                1DE
+Ancient Verse of Altepa                  1DF
+Ancient Verse of Uggalepih               1E0
+Figure of Leviathan                      1E1
+Figure of Garuda                         1E2
+Figure of Titan                          1E3
+Dark Mana Orb                            1E4
+Moongate pass                            1E5
+Hydra Corps Command Scepter              1E6
+Hydra Corps Eyeglasses                   1E7
+Hydra Corps Lantern                      1E8
+Hydra Corps Tactical Map                 1E9
+Hydra Corps Insignia                     1EA
+Hydra Corps Battle Standard              1EB
+Vial of shrouded sand                    1Ec
+Diary of Mukunda                         1ED
+Letter to the Bas. Conflict Cmd.         1EE
+Letter to the Win. Conflict Cmd.         1EF
+Letter to the San. Conflict Cmd.         1F0
+Letter to the Win. Conflict Cmd.         1F1
+Letter to the San. Conflict Cmd.         1F2
+Letter to the Bas. Conflict Cmd.         1F3
+Ballista Earring                         1F4
+Drawing of a male Hume                   1F5
+Drawing of a female Hume                 1F6
+Drawing of a male Elvan                  1F7
+Drawing of a female Elvan                1F8
+Drawing of a male Tarutaru               1F9
+Drawing of a female Tarutaru             1FA
+Drawing of a Mithra                      1FB
+Drawing of a Galka                       1FC
+Ye Olde Mannequin Catalogue              1FD
+Mannequin joint diagrams                 1FE
+Clamming kit                             1FF
+Moghancement: Fire                       200
+Moghancement: Ice                        201
+Moghancement: Wind                       202
+Moghancement: Earth                      203
+Moghancement: Lightning                  204
+Moghancement: Water                      205
+Moghancement: Light                      206
+Moghancement: Dark                       207
+Moghancement: Experience                 208
+Moghancement: Gardening                  209
+Moghancement: Desynthesis                20A
+Moghancement: Fishing                    20B
+Moghancement: Woodworking                20C
+Moghancement: Smithing                   20D
+Moghancement: Goldsmithing               20E
+Moghancement: Clothcraft                 20F
+Moghancement: Leathercraft               210
+Moghancement: Bonecraft                  211
+Moghancement: Alchemy                    212
+Moghancement: Cooking                    213
+Moghancement: Conquest                   214
+Moghancement: Region                     215
+Moghancement: Fishing                    216
+Moghancement: San. Conquest              217
+Moghancement: Bas. Conquest              218
+Moghancement: Win. Conquest              219
+Moghancement: Money                      21A
+.                                        21B
+.                                        21C
+.                                        21D
+.                                        21E
+.                                        21F
+Moglification: Fishing                   220
+Moglification: Woodworking               221
+Moglification: Smithing                  222
+Moglification: Goldsmithing              223
+Moglification: Clothcraft                224
+Moglification: Leathercraft              225
+Moglification: Bonecraft                 226
+Moglification: Alchemy                   227
+Moglification: Cooking                   228
+.                                        229
+.                                        22A
+.                                        22B
+.                                        22C
+.                                        22D
+.                                        22E
+.                                        22F
+.                                        230
+.                                        231
+.                                        232
+.                                        233
+.                                        234
+.                                        235
+.                                        236
+.                                        237
+.                                        238
+.                                        239
+.                                        23A
+.                                        23B
+.                                        23C
+.                                        23D
+.                                        23E
+.                                        23F
+Ballista License                         240
+Ballista Instawarp                       241
+Ballista Instaport                       242
+Mysterious amulet                        243
+Mysterious amulet                        244
+Cracked Mimeo Mirror                     245
+Reliquiarium key                         246
+Mimeo Stone                              247
+Mystic ice                               248
+KEY ITEM                                 249
+Mimeo Jewel                              24A
+Mimeo Feather                            24B
+Second Mimeo Feather                     24C
+Third Mimeo Feather                      24D
+Light of Holla                           24E
+Light of Dem                             24F
+Light of Mea                             250
+Light of Vahzl                           251
+Light of Al'Taieu                        252
+Blue bracelet                            253
+Green bracelet                           254
+Dusty tome                               255
+Pointed jug                              256
+Cracked club                             257
+Peeling hairpin                          258
+Old nametag                              259
+Tiny wristlet                            25A
+Whispering conch                         25B
+Pso'Xja pass                             25C
+Piece of ripped floorplans               25D
+Limit breaker                            25E
+Hyper altimeter                          25F
+Molybdenum box                           260
+Alabaster hairpin                        261
+Dawn talisman                            262
+Silver Comet's collar                    263
+Envelope from Monbereaux                 264
+Delkfutt recognition device              265
+Deed to Purgonorgo Isle                  266
+Pheonix armlet                           267
+Pheonix pearl                            268
+Manaclipper ticket                       269
+Barge ticket                             26A
+All-You-Can-Ride Pass                    26B
+Tavnazian Archipelago supplies           26C
+Rivernewort                              26D
+Tavnazian cookbook                       26E
+Washu's flask                            26F
+Flask of clam water                      270
+Pungent providence pot                   271
+Torn-out pages                           272
+Tonberry blackboard                      273
+Letter from Mickvix                      274
+Letter from Magriffon                    275
+Providence pot                           276
+Care package                             277
+Glittering fragment                      278
+Storeroom key                            279
+Zeelozok's earplug                       27A
+Potion voucher                           27B
+Hi-potion voucher                        27C
+X-potion voucher                         27D
+Ether voucher                            27E
+Hi-ether voucher                         27F
+Super ether voucher                      280
+Elixer voucher                           281
+Revitalizer voucher                      282
+Body boost voucher                       283
+Mana boost voucher                       284
+Drachenessence voucher                   285
+Barfire ointment voucher                 286
+Barblizzard ointment voucher             287
+Baraero ointment voucher                 288
+Barstone ointment voucher                289
+Barthunder ointment voucher              28A
+Barwater ointment voucher                28B
+Barge multi-ticket                       28C
+Manaclipper multi-ticket                 28D
+AF claim tickets                     28E-29C
+Vessel of light                          29D
+Censer of abandonment                    29E
+Censer of antipathy                      29F
+Censer of animus                         2A0
+Censer of acrimony                       2A1
+Monarch beard                            2A2
+Astral covenant                          2A3
+Shaft 2716 opperating lever              2A4
+Zephyr fan                               2A5
+Miasma filter                            2A6
+Particularly poignant petal              2A7
+Antique amulet                           2A8
+Cathedral medallion                      2A9
+Gold Ballista chevron                    2AA
+Mythril Ballista chevron                 2AB
+Silver Ballista chevron                  2AC
+Bronze Ballista chevron                  2AD
+Bloody Ballista chevron                  2AE
+Orange Ballista chevron                  2AF
+White Ballista chevron                   2B0
+Black Ballista chevron                   2B1
+Red Ballista chevron                     2B2
+Green Ballista chevron                   2B3
+Sparkling Ballista chevron               2B4
+Ebon Ballista chevron                    2B5
+Furry Ballista chevron                   2B6
+Brown Ballista chevron                   2B7
+Ochre Ballista chevron                   2B8
+Jade Ballista chevron                    2B9
+Transparent Ballista chevron             2BA
+Purple Ballista chevron                  2BB
+Rainbow Ballista chevron                 2BC
+Letters from Ulmia and Prishe            2BD
+Petra eater voucher                      2BE
+Catholicon voucher                       2BF
+Red oil                                  2C0
+Marble Bridge coaster                    2C1
+Lamp lighter's membership card           2C2
+Shaft gate operating dial                2C3
+Mysterious amulet                        2C4
+Mire incense                             2C5
+Brand of Dawn                            2C6
+Brand of Twilight                        2C7
+Ornamented scroll                        2C8
+Better Humes and Mannequins              2C9
+Petra Shovel                             2CA
+Caliginous Blade                         2CB
+Tear of Altana                           2CC
+Ballista Band                            2CD
+Shaded Cruse                             2CE
+Letter from Shikaree X                   2CF
+Monarch Linn Patrol Permit               2D0
+Letter from Shikaree Y                   2D1
+Letter from the Mithran Trackers         2D2
+Communication from Tzee Xicu             2D3
+Orcish seeker bats                       2D4
+Vault quipus                             2D5
+Goblin recommendation letter             2D6
+Costume kit                              2D7
+Jar of reversion dust                    2D8
+Remedy voucher                           2D9
+Panacea voucher                          2DA
+Smelling salts voucher                   2DB
+Vitrallum                                2DC
+Opalescent stone                         2DD
+Cosmo-Cleanse                            2DE
+Old woman's portrait                     2DF
+Glimmering mica                          2E0
+Mistroot                                 2E1
+Lunascent log                            2E2
+Dynamis - Valkurm sliver                 2E3
+Dynamis - Buburimu sliver                2E4
+Dynamis - Qufim sliver                   2E5
+Dynamis - Tavnazia sliver                2E6
+Red Sentinel badge                       2E7
+Blue Sentinel badge                      2E8
+Green Sentinel badge                     2E9
+White Sentinel badge                     2EA
+Eye of flames                            2EB
+Eye of tremors                           2EC
+Eye of tides                             2ED
+Eye of gales                             2EE
+Eye of frost                             2EF
+Eye of storms                            2F0
+Red invitation card                      2F1
+Blue invitation card                     2F2
+Green invitation card                    2F3
+White invitation card                    2F4
+Healing powder voucher                   2F5
+Brenner Shovel                           2F6
+Brenner Band                             2F7
+Silver Sea ferry ticket                  2F8
+Moonlight ore                            2F9
+Leujaoam Assault orders                  2FA
+Mamool Ja Assault orders                 2FB
+Lebros Assault orders                    2FC
+Periqia Assault orders                   2FD
+Ilrusi Assault orders                    2FE
+Dkhaaya's research journal               2FF
+Electrocell                              300
+Electropot                               301
+Electrolocomotive                        302
+Mark of Zahak                            303
+Vial of luminous water                   304
+Image recorder                           305
+Cast metal plate                         306
+Supplies package                         307
+Rainbow berry                            308
+Sapphire Ballista chevron                309
+Coral Ballista chevron                   30A
+Silk Ballista chevron                    30B
+PSC Wildcat badge                        30C
+Boarding permit                          30D
+Runic portal use permit                  30E
+PFC Wildcat badge                        30F
+SP Wildcat badge                         310
+Raillefal's letter                       311
+Ephramadian gold coin                    312
+Imperial Army I.D. tag                   313
+Raillefal's note                         314
+Dark Rider hoofprint                     315
+Bag of gold pieces                       316
+Forgotten hexagun                        317
+Plasma oil                               318
+Plasma rock                              319
+LC Wildcat badge                         31A
+C Wildcat badge                          31B
+Pot of Tsetserroon's stew                31C
+Assault armband                          31D
+Antique automaton                        31E
+Red bell                                 31F
+Blue bell                                320
+Musical score - 1st page                 321
+Musical score - 2nd page                 322
+Merrow homunculus                        323
+Lamia homunculus                         324
+Munahda's package                        325
+White handkerchief                       326
+Confidential Imperial order              327
+Secret Imperial order                    328
+Handkerchief                             329
+Dirty Handkerchief                       32A
+Replay Debugger                          32B
+Astral compass                           32C
+Vial of spectral scent                   32D
+Empty test tube #1                       32E
+Empty test tube #2                       32F
+Empty test tube #3                       330
+Empty test tube #4                       331
+Empty test tube #5                       332
+Test tube #1                             333
+Test tube #2                             334
+Test tube #3                             335
+Test tube #4                             336
+Test tube #5                             337
+Quartz transmitter                       338
+S Wildcat badge                          339
+SM Wildcat badge                         33A
+CS Wildcat badge                         33B
+Japanese Text ending in ???              33C
+Brand of the Springserpent               33D
+Brand of the Galeserpent                 33E
+Brand of the Flameserpent                33F
+Brand of the Skyserpent                  340
+Brand of the Stoneserpent                341
+Magus order slip                         342
+Sealed Immortal envelope                 343
+.                                        344
+Story of an impatient chocobo            345
+Story of a curious chocobo               346
+Story of a worrisome chocobo             347
+Story of a youthful chocobo              348
+Story of a happy chocobo                 349
+Mamool Ja mandate                        34A
+Valkeng's memory chip                    34B
+Toggle switch                            34C
+Leleroon's letter (green)                34D
+Leleroon's letter (blue)                 34E
+Leleroon's letter (red)                  34F
+Life float                               350
+Wheel lock trigger                       351
+Story of a diligent chocobo              352
+Prairie chocograph                       353
+Bush chocograph                          354
+Letter from Bernahn                      355
+Remnants Permit                          356
+Lilac ribbon                             357
+Coastal chocograph                       358
+Dune chocograph                          359
+Jungle chocograph                        35A
+Desert chocograph                        35B
+Periqia Assault entry permit             35C
+Relic Claim slips(BLU,COR,PUP 41E-42 35D-36B
+Scourshroom                              36C
+Percipient eye                           36D
+Nyzul Isle Assault orders                36E
+Runic disc                               36F
+Runic key                                370
+Gysahl Medal                             371
+Rossweisse's feather                     372
+Grimgerde's feather                      373
+Siegrune's feather                       374
+Helmwige's feather                       375
+Schwertleite's feather                   376
+Waltraute's feather                      377
+Ortlinde's feather                       378
+Gerhilde's feather                       379
+Brunkilde's feather                      37A
+Mark of the Einherjar                    37B
+Photopticator                            37C
+Luminian dagger                          37D
+SL Wildcat badge                         37E
+Biyaada's letter                         37F
+Officer Academy manual                   380
+Allied Council Summons                   381
+Nyzul Isle route                         382
+Mythril mirror                           383
+FL Wildcat badge                         384
+.                                        385
+.                                        386
+.                                        387
+.                                        388
+.                                        389
+.                                        38A
+.                                        38B
+Chocobo Circuit grandstand pass          38C
+Captain Wildcat badge                    38D
+Pure white feather                       38E
+Stardust pebble                          38F
+Left map piece                           390
+Middle map piece                         391
+Right map piece                          392
+Sequined Ballista chevron                393
+Velvet Ballista chevron                  394
+Ballista rations                         395
+Clump of animal hair                     396
+Xhifhut                                  397
+Warning letter                           398
+Red recommendation letter                399
+Blue recommendation letter               39A
+Green recommendation letter              39B
+Bronze Ribbon of Service (I)             39C
+Brass Ribbon of Service (II)             39D
+Allied Ribbon of Bravery (III)           39E
+Allied Ribbon of Glory                (IIII) 39F
+Bronze Star (I)                          3A0
+Sterling Star (II)                       3A1
+Mythril Star (III)                       3A2
+Golden Star (IIII)                       3A3
+Copper Emblem of Service (I)             3A4
+Iron Emblem of Service (II)              3A5
+Steelknight Emblem (III)                 3A6
+Holyknight Emblem (IIII)                 3A7
+Brass Wings of Service (I)               3A8
+Mythril Wings of Service (II)            3A9
+Wings of Integrity (III)                 3AA
+Wings of Honor (IIII)                    3AB
+Starlight Medal (I)                      3AC
+Moonlight Medal (II)                     3AD
+Dawnlight Medal (III)                    3AE
+Metal of Altana (IIII)                   3AF
+Sliced pole                              3B0
+Supply order                             3B1
+Grimoire                                 3B2
+Zonpa-Zippa's All-Purpose Putty          3B3
+Scoop-Dedicated Linkpearl                3B4
+Firepower case                           3B5
+Charred Propeller                        3B6
+Piece of shattered lumber                3B7
+Oxidized plate                           3B8
+Piece of kionite                         3B9
+Ranpi-Monpi Specialty                    3BA
+Culinary knife                           3BB
+Fireblossom                              3BC
+The Healing Herb                         3BD
+Small starfruit                          3BE
+Inky black Yagudo feather                3BF
+Campaign supplies                        3C0
+Mine shaft key                           3C1
+The Essence of Dance                     3C2
+Jugner gate crystal                      3C3
+Pashhow gate crystal                     3C4
+Meriphataud gate crystal                 3C5
+Vunkerl herb                             3C6
+Vunkerl herb memo                        3C7
+Evil warding seal                        3C8
+Ornate package                           3C9
+Sheaf of handmade incense                3CA
+Leather-bound book                       3CB
+Lynx pelt                                3CC
+Wyatt's proposal                         3CD
+Fort key                                 3CE
+Ulbrecht's sealed letter                 3CF
+Schultz's sealed letter                  3D0
+Unaddressed sealed letter                3D1
+Porting magic transcript                 3D2
+Sample of Gaurberg chet                  3D3
+Drogarogan bonemeal                      3D4
+Slug mucus                               3D5
+Djinn ember                              3D6
+Rafflesia dreamspit                      3D7
+Peiste dung                              3D8
+Ulbrecht's mortarboard                   3D9
+Beastman Confederate crate               3DA
+Military scrip                           3DB
+Silvermine key                           3DC
+Red prize balloon                        3DD
+Blue prize balloon                       3DE
+Green prize balloon                      3DF
+Travonce's escort award                  3E0
+Ken's escort award                       3E1
+Emptiness investigation note             3E2
+Tigris stone                             3E3
+Diamond seal                             3E4
+Xicu's rosary                            3E5
+Maroon seal                              3E6
+Apple green seal                         3E7
+Charcoal grey seal                       3E8
+Deep purple seal                         3E9
+Chestnut-colored seal                    3EA
+Lilac-colored seal                       3EB
+Cerise seal                              3EC
+Salmon-colored seal                      3ED
+Purplish grey seal                       3EE
+Gold-colored seal                        3EF
+Copper-colored seal                      3F0
+Bright blue seal                         3F1
+Pine green seal                          3F2
+Amber-colored seal                       3F3
+Fallow-colored seal                      3F4
+Taupe-colored seal                       3F5
+Sienna-colored seal                      3F6
+Lavender-colored seal                    3F7
+Sicklemoon salt                          3F8
+Silver Sea salt                          3F9
+Cyan Deep salt                           3FA
+Orcish warmachine body                   3FB
+Paparoon's sealed invitation             3FC
+Data Analyzer and Logger EX              3FD
+Mayakov show ticket                      3FE
+Serpentking Zahak relief                 3FF
+Sakura racing badge                      400
+Serpentking Zahak relief shard           401
+Imperial Lineage chapter I               402
+Imperial Lineage chapter II              403
+Imperial Lineage chapter III             404
+Imperial Lineage chapter IV              405
+Imperial Lineage chapter V               406
+Imperial Lineage chapter VI              407
+Imperial Lineage chapter VII             408
+Imperial Lineage chapter VIII            409
+The Words of Do'Nhu I                    40A
+The Words of Do'Nhu II                   40B
+The Words of Do'Nhu III                  40C
+The Words of Do'Nhu IV                   40D
+The Words of Do'Nhu V                    40E
+The Words of Do'Nhu VI                   40F
+The Words of Do'Nhu VII                  410
+The Words of Do'Nhu VIII                 411
+Habalo's Eclogue - verse I               412
+Habalo's Eclogue - verse II              413
+Habalo's Eclogue - verse III             414
+Habalo's Eclogue - verse IV              415
+Habalo's Eclogue - verse V               416
+Habalo's Eclogue - verse VI              417
+Habalo's Eclogue - verse VII             418
+Habalo's Eclogue - verse VIII            419
+Signal firecracker                       41A
+Number eight shelter key                 41B
+Torn patches of leather                  41c
+Repaired handbag                         41D
+BLU relic claim slip                     41E
+COR relic claim slip                     41F
+PUP relic claim slip                     420
+.                                        421
+.                                        422
+.                                        423
+Conquest promotion voucher               424
+.                                    425-73F
+Map of Al Zahbi                          740
+Map of Nashmau                           741
+Map of Wajaom Woodlands                  742
+Map of Caedarva Mire                     743
+Map of Mount Zhayolm                     744
+Map of Aydeewa Subterrane                745
+Map of Mamook                            746
+Map of Halvung                           747
+Map of Arapago Reef                      748
+Map of Alzadaal Ruins                    749
+Map of Leujaoam Sanctum                  74A
+Map of the Training Grounds              74B
+Map of Lebros Cavern                     74C
+Map of Ilrusi Atoll                      74D
+Map of Periqia                           74E
+Map of Nyzul Isle                        74F
+Map of the Chocobo Circuit               750
+Map of the colosseum                     751
+Map of Bhaflau Thickets                  752
+Map of Zhayolm Remnants                  753
+Map of Arrapago Remnants                 754
+Map of Bhaflau Remnants                  755
+Map of Silver Sea Remnants               756
+Map of Vunkerl Inlet                     757
+Map of Everbloom Hollow                  758
+Map of Grauberg                          759
+Map of Ruhotz Silvermines                75A
+Map of Fort Karugo-Narugo                75B
+Map of Ghoyu's Reverie                   75C
+.                                    75D-77F
+Iron chainmail claim slip                780
+Shade harness claim slip                 781
+Brass scale mail claim slip              782
+Wool robe claim slip                     783
+Eisenplatte armor claim slip             784
+Soil gi claim slip                       785
+Seer's tunic claim slip                  786
+Studded armor claim slip                 787
+Centurion's scale mail claim slip        788
+Mrc.cpt. doublet claim slip              789
+Garish tunic claim slip                  78A
+Noct doublet claim slip                  78B
+Custom armor (male) claim slip           78C
+Custom armor (female) claim slip         78D
+Magna armor (male) claim slip            78E
+Magna armor (female) claim slip          78F
+Wonder armor claim slip                  790
+Savage armor claim slip                  791
+Elder armor claim slip                   792
+Linen cloak claim slip                   793
+Padded armor claim slip                  794
+Silver chainmail claim slip              795
+Gambison claim slip                      796
+Iron scale armor claim slip              797
+Cuir armor claim slip                    798
+Velvet robe claim slip                   799
+Opaline dress claim slip                 79A
+Ryl.sqr. chainmail claim slip            79B
+Plate armor claim slip                   79C
+Combat Caster's cloak claim slip         79D
+Alumine haubert claim slip               79E
+Carapace harness claim slip              79F
+Banded mail claim slip                   7A0
+Hara-ate claim slip                      7A1
+Raptor armor claim slip                  7A2
+Steel scale claim slip                   7A3
+Wool gambison claim slip                 7A4
+Shinobi gi claim slip                    7A5
+Irn.msk. cuirass claim slip              7A6
+Tct.mgc. cloak claim slip                7A7
+White cloak claim slip                   7A8
+Austere robe claim slip                  7A9
+.                                        7AA
+Crow jupon claim slip                    7AB
+Magus attire claim slip                  7AC
+Corsair's attire claim slip              7AD
+Puppetry attire claim slip               7AE
+Dancer's attire claim slip               7AF
+Dancer's attire claim slip               7B0
+Scholar's attire claim slip              7B1
+Amir armor claim slip                    7B2
+Pahluwan armor claim slip                7B3
+Yigit armor claim slip                   7B4
+.                                    7B5-7B7
+Frog Fishing                             7B8
+Serpent Rumors                           7B9
+Mooching                                 7BA
+Spiffy Synth (dummy item)            7BB-7BF
+Wood Purification                        7C0
+Wood Ensorcellment                       7C1
+Lumberjack                               7C2
+Boltmaker                                7C3
+Spiffy Synth (dummy item)            7C4-7C7
+Metal Purification                       7C8
+Metal Ensorcellment                      7C9
+Chainwork                                7CA
+Sheeting                                 7CB
+Spiffy Synth (dummy item)            7CC-7CF
+Gold Purification                        7D0
+Gold Ensorcellment                       7D1
+Clockmaking                              7D2
+Spiffy Synth (dummy item)            7D3-7D7
+Cloth Purification                       7D8
+Cloth Ensorcellment                      7D9
+Spinning                                 7DA
+Fletching                                7DB
+Spiffy Synth (dummy item)            7DC-7DF
+Leather Purification                     7E0
+Leather Ensorcellment                    7E1
+Tanning                                  7E2
+Spiffy Synth (dummy item)            7E3-7E7
+Bone Purification                        7E8
+Bone Ensorcellment                       7E9
+Filing                                   7EA
+Spiffy Synth (dummy item)            7EB-7EF
+Anima Synthesis                          7F0
+Alchemic Purification                    7F1
+Alchemic Ensorcellment                   7F2
+Trituration                              7F3
+Concoction                               7F4
+Iatrochemistry                           7F5
+Spiffy Synth (dummy item)            7F6-7F7
+Raw Fish Handling                        7F8
+Noodle Kneading                          7F9
+Patissier                                7FA
+Stewpot Mastery                          7FB
+Spiffy Synth (dummy item)            7FC-7FF

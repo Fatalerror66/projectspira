@@ -1,0 +1,24 @@
+*When weapon skills miss outright, it deals 0 damage in the log instead of displaying "uses xyz but misses the monster."
+
+*For Magical WSes, resistance and day bonuses are not included. Also, they are not counted as their correct element (e.g. wind WSes do not deal more damage on Earth Elementals)
+
+*Status effects for weapon skills (e.g. Flat Blade stun) are not implemented.
+
+*Mythic Weapon Skills are not displayed on the WS list.
+
+*Some Relic Weaponskills are not displayed when the correct relic is equipped
+ -DRK Apocalypse
+ -DRG Gungnir
+
+*Archery and Marksmanship WSes have not been included because of database inconsistencies and lack of necessary lua functions:
+ - Incorrect animations post Dulling Arrow / Sniper Shot
+ - Incorrect lua lookup, easily corrected in the sql db but needs to be universal (i'm looking at you devs).
+ - LUA function needed >>>> attacker:getDistance(target)
+ - LUA function needed >>>> attacker:getRangedDmg()
+ - LUA function needed >>>> attacker:getAmmoDmg()
+
+*Hand to hand WSes have not been included because of major problems with the hand to hand system:
+ - Hand to hand does not hit with both hands, even as MNK main.
+ - Weapon DMG is incorrectly calculated as 3 (bare fist) + h2h weapon. Should be:
+    --Bare Fist = H2H Skill * 0.11 + 3
+    --H2H Weapon = Added on top

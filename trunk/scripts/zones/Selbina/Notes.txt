@@ -1,0 +1,151 @@
+---------------------------------------------------------------
+NPCs with no events scripted
+---------------------------------------------------------------
+Chenon - Fishing Rank
+Boris - Item Delivery
+Wenzel - Item Delivery
+Yulon-Polon - Title Changer
+
+---------------------------------------------------------------
+NPCs with a Quest as the first event
+---------------------------------------------------------------
+The following have the first CS in a quest as there first event:
+Abelard
+Devean
+Melyon
+Romeo
+Thuder Hawk
+*Quests are not currently functioning beyond this CS
+
+
+---------------------------------------------------------------
+Currently Unused Events
+---------------------------------------------------------------
+0015	Quest - Donate to Recycling
+0016	Quest - Donate to Recycling
+0017	Quest - Donate to Recycling
+001F	Quest - Under the Sea
+0021	Quest - Under the Sea
+0022	Quest - Under the Sea
+0023	Quest - Under the Sea
+0024	Quest - Under the Sea
+0025	Quest - Under the Sea
+0026	Quest - Under the Sea
+0029	Quest - An Explorer's Footsteps
+002A	Quest - An Explorer's Footsteps
+002B	Quest - An Explorer's Footsteps
+002C	Quest - An Explorer's Footsteps
+002D	Quest - An Explorer's Footsteps
+002E	Quest - An Explorer's Footsteps
+002F	Quest - An Explorer's Footsteps
+0030	Quest - An Explorer's Footsteps
+0031	Quest - An Explorer's Footsteps
+0032	Quest - Cargo
+0033	Quest - Cargo
+0034	Quest - Cargo
+003D	Quest - Only the Best
+003E	Quest - Only the Best
+003F	Quest - Only the Best
+0040	Quest - Only the Best
+0046	Quest - The Gift
+0047	Quest - The Gift
+0048	Quest - The Gift
+0049	Quest - The Real Gift
+004A	Quest - The Real Gift
+004B	Quest - The Real Gift
+004C	Quest - The Real Gift
+004D	Quest - The Real Gift
+004E	Quest - The Real Gift
+0050	Quest - The Rescue
+0051	Quest - The Rescue
+0052	Quest - The Rescue
+0053	Quest - The Rescue
+0055	Quest - A Boy's Dream
+0064	Quest - His Name is Valgeir
+0065	Quest - His Name is Valgeir
+0066	Quest - Expertise
+0067	Quest - Expertise
+0068	Quest - Expertise
+0069	Quest - Expertise
+006A	Quest - The Basics
+006B	Quest - The Basics
+006F	Quest - Elder Memories
+0070	Quest - Elder Memories
+0071	Quest - Elder Memories
+0072	Quest - Elder Memories
+0073	Quest - Elder Memories
+0074	Quest - Elder Memories
+0075	Quest - Elder Memories
+0076	Quest - Elder Memories
+0077	Quest - Elder Memories
+0079	Quest - Test My Mettle
+007A	Quest - Test My Mettle
+007B	Quest - Test My Mettle
+007C	Quest - Test My Mettle
+007D	Quest - Test My Mettle
+008D	Valgeir Text
+008E	Valgeir Text
+008F	Valgeir Text
+0090	Valgeir Text
+0091	Valgeir Text
+0092	Valgeir Text
+00A0	Quest - Inside the Belly
+00A1	Quest - Inside the Belly
+00A2	Quest - Inside the Belly
+00A3	Quest - Inside the Belly
+00A4	Quest - Inside the Belly
+00A5	Quest - Inside the Belly
+00A6	Quest - Inside the Belly
+00A7	Quest - Inside the Belly
+00AC	Ramona Cutscene
+00AD	Mathilda Cutscene
+00AE	Mathilda Text
+00AF	Ramona Text
+00C8	Missing NPCs CS
+00C9	Missing NPCs CS
+00CA	Ferry Leaving CS
+00CB	Missing NPCs CS
+00CC	Missing NPCs CS
+00DC	Missing NPCs CS
+00DD	Missing NPCs CS
+00E0	Bretta - Exit Only Text
+00E1	Bretta - Exit Only Text
+00E2	Bretta - Exit Only Text
+00E3	Bretta - Exit Only Text
+00E4	Aleria Text
+00E5	Bretta - Exit Only Text
+00E8	Humilitie Text
+00E9	Humilitie Text
+00EA	Humilitie Text
+00EB	Humilitie Text
+0259	Gabwaleid Text
+044D	Missing NPCs CS
+044F	Quest - It's Raining Mannequins
+0450	Quest - Signed in Blood
+0451	Quest - Signed in Blood
+0452	Quest - Signed in Blood
+0453	Quest - Signed in Blood
+0454	Quest - Chasing Dreams
+0455	Quest - Chasing Dreams
+0456	Quest - Picture Perfect
+0458	Quest - Picture Perfect
+0459	Quest - Picture Perfect
+045A	Quest - Picture Perfect
+045B	Quest - Picture Perfect
+045C	Quest - Picture Perfect
+045D	Quest - Picture Perfect
+045E	Quest - Picture Perfect
+045F	Quest - Picture Perfect
+0460	Quest - Picture Perfect
+0461	Quest - Picture Perfect
+046D	Bretta - Exit Only Text
+046F	Explorer Moogle
+0470	Explorer Moogle
+2712	Quest - The Tenshodo Showdown
+2713	Quest - The Tenshodo Showdown
+2714	Quest - The Tenshodo Showdown
+2715	Missing NPCs CS
+2716	Missing NPCs CS
+2717	Missing NPCs CS
+2718	Missing NPCs CS
+271A	Missing NPCs CS

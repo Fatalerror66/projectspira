@@ -1,0 +1,577 @@
+000b	English         debug menu
+002a	hat quest?	    Baren-Moren dialogue
+002b	hat quest?	    Bondada dialogue
+002c	hat quest?	    Baren-Moren dialogue
+002d	hat quest?	    Baren-Moren dialogue
+002e	hat quest?	    Baren-Moren dialogue
+002f	hat quest?	    Baren-Moren dialogue
+0030	hat quest		start
+0031	hat quest		repeat start
+0033	hat quest		during
+0034	hat quest		end - check result
+0035	hat quest		client
+0036	hat quest		client
+0037	hat quest		client
+0038	hat quest		client
+0039	hat quest		client
+003a	hat quest		client
+003b	hat quest		client
+003c	hat quest		client
+003d	hat quest		client
+003e	hat quest		Bondada after HQ success
+003f	hat quest		end - fail
+0040	hat quest		end - fail
+0041	hat quest		end - fail
+0042	hat quest		end - success
+0043	hat quest		end - success
+0044	hat quest		end - success
+0045	hat quest?		Bondada dialogue
+0046	hat quest?		Bondada dialogue
+0047	hat quest?		Bondada dialogue
+0048	hat quest?		Bondada dialogue
+0049	hat quest II	not enough fame
+004a	hat quest II	part of 49
+004b	hat quest II	start
+004d	hat quest II	or part of 4b
+004e	hat quest II	during
+004f	hat quest II	end, recieve gil
+0050	hat quest II	after, part of 4f
+0051	hat quest II	after, part of 4f
+0053	hat quest II?	Yung Yaam dialogue
+0054	hat quest II	repeat start
+0055	hat quest II	repeat during
+0056	Angelica		regular dialogue
+0057	Angelica		not enough fame
+0058	Angelica		regular dialogue
+0059	Angelica		regular dialogue
+005a	Angelica		start quest??
+005b	Angelica		quest success??
+005c	Angelica		quest fail - need gear
+005d	Angelica		quest fail - need gear
+005f	Angelica		quest fail??
+0060	Angelica		quest end - success
+0065	Angelica		after
+0066	Angelica		quest not offered
+0067	Mokyokyo		non-windy dialogue
+0068	Dagoza			non-windy dialogue
+0069	Panna			windy dialogue
+006a	Panna			non-windy dialogue
+006b	Ten				regular dialogue
+006c	Dagoza			windy dialogue
+006d	Mokyokyo		during any mission accepted
+006f	Mokyokyo		select mission
+0070	missions		Dagoza
+0071	missions		Panna
+0072	missions		Ten
+0073	missions		Dagoza
+0074	missions		Panna
+0075	missions		summons you to mission tarus
+0076	Mission 1-1		start
+0077	Mission 1-1		part of 76
+0078	Mission 1-1		part of 76
+0079	Mission 1-1		Dagoza during
+007a	Mission 1-1		Panna during
+007b	Mission 1-1		Mokyokyo during
+007c	Mission 1-1		Ten during
+007d	Mission 1-1		end - success
+007e	Mission 1-1		Mokyokyo after
+007f	Mission 1-1		Panna after
+0080	Mission 1-1		Dagoza after
+0081	Mission 1-1		Ten after
+0082	Mission 1-2		start
+0083	Mission 1-2		Mokyokyo during
+0084	Mission 1-2		Dagoza during
+0085	Mission 1-2		Panna during
+0086	Mission 1-2		Ten during
+0087	Mission 1-3		start
+0088	Mission 1-3		Mokyokyo during
+0089	Mission 1-3		Panna during
+008a	Mission 1-3		Dagoza during
+008b	Mission 1-3		Ten during
+008c	Mission 1-3		Leppe-Hoppe gives you food
+008d	Mission 1-3		Leppe-Hoppe after giving
+008f	Mission 1-3		Ohbiru before getting food
+0090	Mission 1-3		Ohbiru after getting food
+0091	Mission 1-3		Kenapa-Keppa
+0092	Mission 1-3		Leppe-Hoppe after Giddeus
+0093	Mission 1-3		Leppe-Hoppe after 92
+0094	Mission 1-3		end - rank up (2)
+0095	Mission 1-3		Mokyokyo after
+0096	Mission 1-3		Dagoza after
+0097	Mission 1-3		Dagoza after??
+0098	Mission 1-3		Panna after??
+009a	Mission 1-3		Ten after
+009b	Mission 2-1		start
+009c	Mission 2-1		Mokyokyo during
+009d	Mission 2-1		Dagoza during
+009e	Mission 2-1		Panna during
+009f	Mission 2-1		Ten during
+00a0	Mission 2-1		Tosuka-Porika dialogue
+00a1	Mission 2-1		Tosuka after a0
+00a2	Mission 2-1		Hariga-Origa
+00a3	Mission 2-1		Serukoko
+00a4	Mission 2-1		Sohdede
+00a5	Mission 2-1		Furakku-Norakku
+00a6	Mission 2-1		Kotan-Moritan
+00a7	Mission 2-1		Aora-Uora
+00a8	Mission 2-1		end
+00a9	Mission 2-1		Tosuka after
+00aa	Mission 2-1		Hariga-Origa after
+00ab	Mission 2-1		Serukoko after
+00ac	Mission 2-1		Sohdede after
+00ad	Mission 2-1		Furakku-Norakku after
+00ae	Mission 2-1		Kotan-Moritan after
+00af	Mission 2-1		Aora-Uora after
+00b0	Mission 2-2		start
+00b1	Mission 2-2		Mokyokyo during
+00b2	Mission 2-2		Dagoza during
+00b3	Mission 2-2		Panna during
+00b4	Mission 2-2		Ten during
+00b5	Mission 2-2		Moreno-Toeno repeat
+00b6	Mission 2-2		Moreno-Toeno start
+00b7	Mission 2-2		Moreno not enough time
+00b8	Mission 2-2		Moreno end
+00b9	Mission 2-2		Pechiru during
+00ba	Mission 2-2		Fuepepe during
+00bb 	Mission 2-2		Tauwawa during
+00bc	Mission 2-2?	Kirarara dialogue
+00bd	Mission 2-2?	Rukuku dialogue
+00be	Mission 2-2?	Akkeke dialogue
+00bf	Mission 2-2?	Koko Lihzeh dialogue
+00c0	Mission 2-2?	Foi-Mui dialogue
+00c2	Mission 2-2?	Paku-Nakku dialogue
+00c3	Mission 2-2?	Chomoro dialogue
+00c4	Mission 2-2?	Mimomo dialogue
+00c6	Mission 2-2		end - critical fail
+00c7	Mission 2-2		end - fail
+00c8	Mission 2-2		end - success
+00c9	Mission 2-2		end - HQ success
+00ca	Mission 2-2r	fail - too long
+00cb	Mission 2-2r	fail - too weak?
+00cc	Mission 2-2r	not enough time
+00cd	Mission 2-2r	end - fail
+00ce	Mission 2-2r	end - success
+00d0	Mission 2-2r?	end - fail
+00d1	Mission 2-2r?	end - success
+00d2	Mission 2-2r?	part of d1
+00d3	Mission 2-3		start
+00d4	Mission 2-3		Panna during
+00d5	Mission 2-3		Dagoza during
+00d6	Mission 2-3		Ten during
+00d7	Mission 2-3		Mokyokyo during
+00d8	Mission 3-1		start?
+00d9	Mission 3-1		Mokyokyo during
+00da	Mission 3-1		Panna during
+00db	Mission 3-1		Dagoza during
+00dc	Mission 3-1		Ten during
+00dd	Mission 3-2		start
+00de	Mission 3-2r	repeat start
+00df	Mission 3-2		Mokyokyo during
+00e0	Mission 3-2		Panna during
+00e1	Mission 3-2		Dagoza during
+00e2	Mission 3-2		Ten during
+00e3	Mission 3-3		start
+00e4	Mission 3-3		Mokyokyo during
+00e5	Mission 3-3		Panna during
+00e6	Mission 3-3		Dagoza during
+00e7	Mission 3-3		Ten during
+00e8	Mission 4-1		Mokyokyo during
+00e9	Mission 4-1		Panna during
+00ea	Mission 4-1		Dagoza during
+00eb	Mission 4-1		Ten during
+00ec	Mission 5-1		start
+00ed	Mission 5-1		Mokyokyo during
+00ee	Mission 5-1		Panna during
+00ef	Mission 5-1		Dagoza during
+00f0	Mission 5-1		Ten during
+00f1	Mission 5-2		start
+00f2	Mission 5-2		Mokyokyo during
+00f3	Mission 5-2		Panna during
+00f4	Mission 5-2		Dagoza during
+00f5	Mission 5-2		Ten during
+00f6	Mission 5-2		Panna after
+00f7	Mission 5-2		Dagoza after
+00f8	Mission 5-2		Ten after
+00f9	Ranpi-Monpi		regular dialogue
+00fb	Ranpi-Monpi		regular dialogue?
+00ff	Maysoon			regular dialogue
+0100	Ranpi-Monpi		dialogue
+0102	Ranpi-Monpi		quest start
+0103	Ranpi-Monpi		quest repeat start
+0106	Ranpi-Monpi		quest during
+0108	Ranpi quest		Rabiri during
+010a	Ranpi quest		Maysoon during
+010b	Ranpi quest		end
+010c	Ranpi quest		Ranpi after
+010d	Npopo			regular dialogue
+010e	Ajen-Myoojen	regular dialogue
+010f	Shatoto			regular dialogue
+0110	Four of Hearts	regular dialogue
+0111	Five of Hearts	regular dialogue
+0112	Six of Hearts	regular dialogue
+0113	Seven of Hearts	regular dialogue
+0114	Eight of Hearts	regular dialogue
+0115	Nine of Hearts	regular dialogue
+0116	Anja-Enja		regular dialogue
+0118	Churano-Shurano	day dialogue
+0119	Churano-Shurano	night dialogue
+011a	Mejina-Monjina	regular dialogue
+011b	Ropunono		regular dialogue
+011c	Ropunono		regular dialogue?
+011d	Ropunono		regular dialogue?
+011e	Mejina-Monjina	regular dialogue?
+011f	Churano-Shurano	quest during?
+0120	Ropunono		quest start?
+0121	Ropunono		quest during
+0122	Mejina			quest during
+0123	Churano			quest after?
+0124	Ropunono		quest end - success
+0125	Ropunono		quest after
+0126	Mejina			quest after
+0127	Churano			quest after?
+0128	Ropunono		quest end - fail
+0129	Ropunono		fail after / repeat start?
+012a	Mejina			repeat during
+012b	Churano			repeat during
+012c	Lago-Charago	regular dialogue
+012d	Ohbiru-Dohbiru	regular dialogue
+012e	Kenapa-Keppa	regular dialogue
+012f	Kenapa-Keppa	regular dialogue?
+0130	Kerutoto		regular dialogue
+0131	Leppe-Hoppe		regular dialogue?
+0132	Kerutoto		eating quest?
+0133	Kenapa-Keppa	eating quest?
+0134	Ohbiru			eating quest?
+0135	Ohbiru			part of 134
+0136	Kenapa			dialogue
+0137	Leppe-Hoppe		eating quest?
+0138	Kerutoto		dialogue
+0139	Kerutoto		eating quest start
+013a	Kerutoto		eating quest repeat start
+013b	Kerutoto		her order
+013c	Ohbiru			his order
+013d	Ohbiru			after 13d
+013e	Kenapa			his order
+013f	Kenapa			his order
+0140	Kenapa			his order
+0141	Kenapa			his order
+0142	Ohbiru			give his order
+0143	Ohbiru			give wrong order
+0144	Ohbiru			after giving food
+0145	Ohbiru			give his order without 13c
+0146	Ohbiru			give wrong order without 13c?
+0147	Kenapa			give his order
+0148	Kenapa			after giving
+0149	Kenapa			needs food
+014a	Kenapa			give his order without 13e
+014b	Kenapa			give wrong order without 13e
+014c	Kerutoto		give her order
+014d	Kerutoto		after giving
+014e	Kerutoto		give wrong order
+014f	Kerutoto		after quest
+0150	Kenapa			before delivery quest
+0151	Kenapa			request
+0152	Kenapa			deliver bag request
+0153	Kenapa			quest start
+0154	Kenapa			during
+0155	Kenapa			during
+0156	Kenapa			during
+0157	Kenapa			during
+0158	Kenapa			during
+0159	Leppe-Hoppe		during bag quest?
+015a	Kenapa			quest failed
+015b	Kenapa			after failed
+015c	Kenapa			end - success
+015d	Kenapa			after success
+015e	Kenapa			after success
+015f	Ohbiru			after success
+0160	Ohbiru			water quest start
+0161	Ohbiru			during
+0162	Ohbiru			get another canteen
+0163	Ohbiru			end - success
+0164	Ohbiru			after
+0165	Kerutoto		ribbon quest start?
+0166	Kerutoto		give ribbon
+0167	Kerutoto		after giving?
+0168	Kerutoto		ribbon triggers new quest?
+0169	Kerutoto		during the new quest
+016a	Kerutoto		quest end - success
+016b	Kerutoto		after
+016d	Kerutoto		3rd ribbon quest?
+016e	Kerutoto		threw away ribbon?
+016f	books			checking a suspicious book
+0170	books			checking an old book
+0171	books			can't open that book
+0172	Tosuka-Porika	regular dialogue
+0173	Furakku-Norakku	regular dialogue
+0174	Hariga-Origa	regular dialogue
+0175	Serukoko		regular dialogue
+0176	Sohdede			regular dialogue
+0179	Kotan-Moritan	regular dialogue
+017a	Aora-Uora		regular dialogue
+017b	Tosuka-Porika	regular dialogue?
+017c	Tosuka			after 5-2
+017d	Hariga-Origa	quest start
+017e	Hariga			during
+017f	Serukoko		during
+0180	Sohdede			during
+0181	Hariga			quest end, recieve map
+0182	Hariga			after
+0183	Tosuka			quest start
+0184	Tosuka			during
+0185	Furakku			during, Orn
+0186	Furakku			repeat 185
+0187	Kotan			during, Orn
+0188	Aora-Uora		during, Orn
+0189	Kyume-Romeh		during, Orn
+018b	Orn				during
+018c	Orn				after 18b
+018d	Furakku			after 18b
+018e	Orn				have book
+018f	Orn				after 18e
+0190	Furakku			quest end
+0191	Furakku			after
+0192	Tosuka			after, Orn
+0193	Tosuka			repeat start
+0194	Furakku			during, Jae
+0195	Furakku			repeat 194
+0196	Tosuka			during
+0197	Kotan			during, Jae
+0198	Aora-Uora		during, Jae
+0199	Furakku			after talking to Jae
+019a	Furakku			quest end
+019b	Furakku			after
+019c	Tosuka			after, Jae
+019d	Hariga			quest II start
+019e	Hariga			during
+019f	Serukoko		during
+01a0	Sohdede			during
+01a1	Hariga			quest end - success
+01a2	Hariga			after
+01a3	Serukoko		after
+01a4	Diroku-Oroku	talks about mage jobs
+01a5	Pechiru-Mashiru	regular dialogue
+01a6	Moreno-Toeno	regular dialogue
+01a7	Fuepepe			regular dialogue
+01a8	Tauwawa			regular dialogue
+01a9	Kirarara		regular dialogue
+01aa	Rukuku			regular dialogue
+01ab	Akkeke			regular dialogue
+01ac	Koko Lihzeh		regular dialogue
+01ad	Mashuu-Ajuu		regular dialogue
+01ae	Foi-Mui			regular dialogue
+01af	Paku-Nakku		regular dialogue
+01b0	Chomoro-Kyotoro	regular dialogue
+01b2	PakesseMyukesse regular dialogue
+01b3	Majiji			regular dialogue
+01b4	Mimomo			regular dialogue
+01b5	Moreno			quest not enough fame?
+01b6	Moreno			quest start
+01b7	Moreno			during
+01b8	Moreno			end - success
+01b9	Moreno			after
+01ba	Fuepepe			aspir quest start
+01bc	Moreno			during
+01bd	Pechiru			during
+01be	Tauwawa			during
+01bf	Kirarara		during
+01c0	Mashuu			during
+01c1	Foi-Mui			during
+01c2	Rukuku			during
+01c3	Koko Lihzeh		during
+01c4	Paku-Nakku		during
+01c5	Akkeke			during
+01c6	Chomoro			during
+01c7	Fuepepe			found papers
+01c8	Fuepepe			repeat 1c7
+01c9	Chomoro			after 1c7
+01ca	Fuepepe			quest end - success
+01cb	Fuepepe			after
+01cc	Chomoro			after
+01cd	Chomoro			after 1cc
+01cf	Mashuu			plant quest start
+01d0	Mashuu			during
+01d1	Kirara			during
+01d2	Foi-Mui			during
+01d3	Paku-Nakku		during
+01d4	Akkeke			during
+01d5	Moreno			during
+01d6	Rukuku			during
+01d7	Koko Lihzeh		during
+01d8	Chomoro			during
+01db	Mashuu			quest end - success
+01dc	Mashuu			after success
+01dd	Mashuu			quest end - HQ success
+01de	Mashuu			after HQ success
+01df	Mashuu			repeat start
+01e0	Moreno			after
+01e1	Paku			middle of sleeping quest?
+01e2	Paku			sleeping
+01e3	Mashuu			about Paku
+01e4	Akkeke			about Paku
+01e5	Kirarara		about Paku
+01e6	Foi				about Paku
+01e7	Rukuku			about Paku
+01e8	Koko Lihzeh		about Paku
+01e9	Chomoro			about Paku
+01ea	Pechiru			about Paku
+01eb	Moreno			about Paku
+01ec	Pechiru			further along in quest
+01ed	Fuepepe			about Paku
+01ee	Paku			fail to awaken
+01ef	Pechiru			after 1ee
+01f0	Pechiru			after 1ef?
+01f1	Pechiru			quest end? - success
+01f2	Pechiru			after
+01f3	Paku			quest end - success?
+01f4	Paku			after
+01f5	Mashuu			after
+01f6	Akkeke			after
+01f7	Kirarara		after
+01f8	Foi-Mui			after
+01f9	Rukuku			after
+01fa	Koko Lihzeh		after
+01fb	Chomoro			after
+01fc	Temoe-Amoe		regular dialogue?
+01fd	Arukoko			regular dialogue?
+01fe	Gevirun-Gabirun	regular dialogue?
+01ff	Pulykiki		regular dialogue?
+0200	Moari-Kaaori	regular dialogue?
+0201	Mashishi		regular dialogue?
+0202	Moari-Kaaori	flower quest start
+0203	Moari			during
+0204	Ohbiru			select flower
+0205	Ohbiru			bought wrong flower?
+0206	Ohbiru			bought right flower?
+0207	Kenapa			where to find flower
+0208	Moari			quest end - HQ success
+0209	Moari			after
+020a	Moari			quest end - success
+020b	Moari			wrong flower
+020c	Moari			after HQ success?
+020d	Moari			HQ success - receive gil
+020e	Machitata		regular dialogue - MH guard
+020f	Machitata		after 20e
+0210	Machitata		move back to windy
+0211	Machitata		non-windy, have room
+0212	Machitata		non-windy, need room
+0213	Opening CS		opening movie
+0214	Opening CS		opening dialogue
+0215	Opening CS		opening dialogue
+0216	Opening CS		ask about
+0217	Opening CS		opening dialogue
+0218	Opening CS		opening dialogue
+0219	Opening CS		opening dialogue
+021a	Opening CS		opening dialogue
+021b	Opening CS		opening dialogue
+021d	Pechiru			alchemy quest - during
+0220	Moreno			alchemy quest - during
+0221	Fuepepe			alchemy quest - during
+0222	Fuepepe			after 221
+0223	Baren-Moren		hat quest 3 - start?
+0224	Baren-Moren		hat quest 3 - during
+0225	Baren			quest end - success
+0226	Baren			repeat offer
+0227	Chamama			star onion mustache quest
+0228	Chamama			make mustache
+0229	Chamama			after?
+022a	Ranpi			mushroom stew quest start?
+022b	Ranpi			during
+022c	Ranpi			made stew
+022d	Ranpi			after?
+022f	Karuru			regular dialogue
+0230	Pojimo-Rojimo	regular dialogue
+0231	Shante-Fante	regular dialogue
+0232	AmagusaChigurusaregular dialogue
+0233	Kobite-Mojite	regular dialogue
+0234	Moitoto			regular dialogue
+0235	Yohra-Ora		regular dialogue
+0236	Bulolo			regular dialogue
+0237	Janta-Jonta		regular dialogue
+0238	Rabiri-Tabiri	regular dialogue
+0239	Koowawa			regular dialogue
+023a	Hororo			regular dialogue
+023b	Tonana			warp taru
+023c	Porupen-Kyurupenregular dialogue
+023d	Miriri			regular dialogue
+023e	Okaka			regular dialogue
+023f	Damami-Karumi	regular dialogue
+0240	Funpo-Shipo		regular dialogue
+0241	Shanana			regular dialogue
+0242	Tsuran-Botaran	regular dialogue
+0243	Yomotsutsu		regular dialogue
+0244	Myumimi			regular dialogue
+0245	Myumimi			paired with 244
+0246	Torikoko		regular dialogue - with 244?
+0247	Queo-Paeo		regular dialogue
+0248	Ramasese		regular dialogue
+0249	Shataru-Potaru	regular dialogue
+024a	Kuesoso			regular dialogue
+024b	Khuta Colaara	regular dialogue
+024c	Panaa			regular dialogue
+024d	Reh Hapli		non-windy dialogue
+024e	Reh Hapli		regular dialogue
+024f	Buchi Kohmrijah	regular dialogue
+0250	Buchi			paired with 24f
+0251	Nasoh Joli		regular dialogue
+0252	Akee Yonji		regular dialogue - quest?
+0253	Akee Yonji		after 252 - during?
+0254	Sahgi Konchumih	regular dialogue
+0255	Pia				regular dialogue
+0257	Caliburn		regular dialogue
+0258	Gordias			regular dialogue
+0259	Enrefort		regular dialogue
+025a	Clais			regular dialogue
+025b	Khuta Colaara	rank 3 dialogue?
+025c	Kyume-Romeh		regular dialogue
+025d	Aramu-Paramu	night dialogue
+025e	Aramu			morning dialogue
+025f	Aramu			day dialogue
+0260	Aramu			evening dialogue
+0261	Yung Yaam		regular dialogue
+0262	Jatan-Paratan	day dialogue
+0263	Jatan-Paratan	night dialogue
+0264	Yuli Yaam		night dialogue
+0265	Yuli Yaam		day dialogue
+0266	Zabirego-Hajigo	regular dialogue
+0267	Jatan-Paratan	day dialogue?
+0279	Jatan-Paratan	ask how he performed
+027a	Jatan			ask about the restaurant
+027b	Jatan			after 27a
+027c	Yung Yaam		about Jatan
+027d	Yuli Yaam		about Jatan
+027e	Jatan			quest end?? - BRD AF??
+027f	Jatan			after
+0281	Yuli Yaam		after
+0283	Yung Yaam		after
+0286	Hobibi			regular dialogue
+028a	Honoi-Gomoi		regular dialogue
+028b	Chamama			regular dialogue
+028c	Orn				regular dialogue
+028e	Chamama			smooth stone quest start
+028f	Chamama			during
+0290	Chamama			after wrong stone?
+0291	Chamama			needs heavier
+0292	Chamama			needs bigger
+0293	Chamama			quest end - success
+0294	Chamama			after
+0295	Chamama			repeat start
+0296	Chamama			repeat end - success
+0297	Naiko-Paneiko	regular dialogue - not enough fame
+0298	Chyuk Kochak	regular dialogue
+0299	Naiko			news quest start
+029a	Naiko			during
+029b	Chyuk			during
+029c	Kyume-Romeh		get article
+029d	Kyume-Romeh		after 29c
+029e	Naiko			quest end - HQ success
+029f	Naiko			after
+02a0	Chyuk			after
+02a1	Naiko			wrong article
+02a2	Naiko			quest end - success
+02a3	Chyuk			after 2a2
+02a4	Naiko			stolen quest start
+02a5	Naiko			during
+02a6	Naiko			during??
+02a7	Chyuk			during
+02a8	Naiko			quest end - success

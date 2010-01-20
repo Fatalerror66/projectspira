@@ -1,0 +1,20 @@
+-----------------------------------
+--	Author: Almendro
+-- 	Hermes Quencher (5253)
+-- 	This specially formulated sports drink temporarily increases movement speed.
+--  Duration & animation was verified in this video: http://www.youtube.com/watch?v=MYrm28N8zW8
+-----------------------------------
+-- Includes
+require("scripts/globals/settings");
+-----------------------------------
+function OnUseItem(user,target,item)
+	item:setAnimation(24);
+	if(target:getStatusEffect(EFFECT_MEDICATED) ~= nil)then
+		item:setMsg(111,0); -- You cannot use potions while medicated.
+		item:dontRemove();
+	else
+		target:addStatusEffect(EFFECT_FLEE,50,0,60);
+		target:addStatusEffect(EFFECT_MEDICATED,1,0,900);
+		item:setMsg(0,0);	
+	end
+end

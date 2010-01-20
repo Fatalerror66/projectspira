@@ -1,0 +1,3 @@
+Some Weapons skills are quested like Decimation (Axe). You need to add a variable to count points for the Weapon skill Quest.
+Refer to the following URL to get standard variables
+http://projectxi.org/wiki/index.php/Quested_Weapon_Skills

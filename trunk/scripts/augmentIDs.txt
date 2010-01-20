@@ -1,0 +1,247 @@
+HOW TO READ: Take the two bytes listed, and reverse them.  Then convert to binary.  The format is then as follows:
+
+xxxxx	yyyyyyyyyyy
+
+value	augment ID
+
+You have to enter the bytes shown to get the listed effect.
+
+BYTES		EFFECT (base value)
+00 00		No Augment
+01 00		HP+1
+02 00		HP+33
+03 00		HP+65
+04 00		HP+97
+05 00		HP-1
+06 00		HP-33
+07 00		HP-65
+08 00		HP-97
+09 00		MP+1
+0a 00		MP+33
+0b 00		MP+65
+0c 00		MP+97
+0d 00		MP-1
+0e 00		MP-33
+0f 00		MP-65
+10 00		MP-97
+11 00		HP+1 MP+1
+12 00		HP+33 MP+33
+13 00		HP+1 MP-1
+14 00		HP+33 MP-33
+15 00		HP-1 MP+1
+16 00		HP-33 MP+33
+17 00		Accuracy+1
+18 00		Accuracy-1
+19 00		Attack+1
+1a 00		Attack-1
+1b 00		Ranged Accuracy+1
+1c 00		Ranged Accuracy-1
+1d 00		Ranged Attack+1
+1e 00		Ranged Attack-1
+1f 00		Evasion+1
+20 00		Evasion-1
+21 00		DEF:+1
+22 00		DEF:-1
+23 00		Magic Accuracy+1
+24 00		Magic Accuracy-1
+*25 00		Magic Evasion +1
+*26 00		Magic Evasion -1
+27 00		Enmity+1
+28 00		Enmity-1
+29 00		Critical Hit Rate+1
+2a 00		Enemy Critical Hit Rate-1
+2b 00		"Charm"+1
+2c 00		"Store TP"+1 "Subtle Blow"+1
+2d 00		DMG:+1
+2e 00		DMG:-1
+2f 00 		Delay:+1%
+30 00		Delay:-1%
+31 00		"Haste"+1
+32 00		"Slow"+1
+33 00		HP Recovered while Healing +1
+34 00		MP Recovered while Healing +1
+35 00		Spell Interruption Rate Down 1%
+36 00		Physical Damage taken -1
+37 00		Magic Damage taken -1
+*38 00		Breath damage taken -1%
+*39 00		Magic critical hit rate +1
+*3a 00		"Magic Defense Bonus" -1
+<blanks from 3b to 5f>
+*60 00		Pet: Accuracy +1	Ranged Accuracy +1
+*61 00		Pet: Attack +1		Ranged Attack +1
+*62 00		Pet: Evasion +1
+*63 00		Pet: DEF:+1
+*64 00		Pet: Magic Accuracy +1
+*65 00		Pet: "Magic Attack Bonus" +1
+*66 00		Pet: Critical Hit Rate +1
+*67 00		Pet: Enemy critical hit rate -1
+*68 00		Pet: Enmity +1
+*69 00		Pet: Enmity -1
+*6a 00		Pet: Accuracy +1	Ranged Accuracy +1
+*6b 00		Pet: Attack +1		Ranged Attack +1
+*6c 00		Pet: Magic Accuracy +1	"Magic Attack Bonus" +1
+*6d 00		Pet: "Double Attack" +1	Critical hit rate +1
+*6e 00		Pet: "Regen"+1
+*6f 00		Pet: "Haste"+1
+*70 00		Pet: Damage taken -1%
+
+<These apparantly glitched augments existed before, but seem unneccesary now.  The glitched number has changed.>
+*80 00		Pet:
+*81 00		Accuracy+1			Ranged Accuracy+72246068
+*82 00		Attack+1			Ranged Accuracy+72246068
+*83 00		Magic Accuracy+1	"Magic Attack Bonus"+72246068
+*84 00		Double Attack+1		Critical Hit Rate+72246068
+
+85 00		"Magic Attack Bonus"+1
+86 00		"Magic Defense Bonus"+1
+87 00		<blank>
+88 00		<blank>
+89 00		"Regen"+1
+8a 00		"Refresh"+1
+*8b 00		"Rapid Shot" +1
+8c 00		"Fast Cast"+1
+8d 00		"Conserve MP"+1
+8e 00		"Store TP"+1
+8f 00		"Double Attack"+1
+*90 00		"Triple Attack" +1
+91 00		"Counter"+1
+92 00		"Dual Wield"+1
+<blanks from 93 to af>
+b0 00		"Resist Sleep"+1
+b1 00		"Resist Poison"+1
+b2 00		"Resist Paralyze"+1
+b3 00		"Resist Blind"+1
+b4 00		"Resist Silence"+1
+b5 00		"Resist Petrify"+1
+b6 00		"Resist Virus"+1
+b7 00		"Resist Curse"+1
+b8 00		"Resist Stun"+1
+b9 00		"Resist Bind"+1
+ba 00		"Resist Gravity"+1
+bb 00		"Resist Slow"+1
+bc 00		"Resist Charm"+1
+<blanks up to ff, except for these two>
+c3 00		"Subtle Blow"+1
+d3 00		"Snap Shot"+1
+
+
+BYTES		EFFECT (base value)
+<Blanks from 00 to 1f, except where noted.  There's obvious room for all the combat skills.>
+*01 01		Hand-to-Hand skill +1
+*1a 01		Marksmanship skill +1
+1e 01		Shield Skill+1
+20 01		Divine Magic Skill+1
+21 01		Healing Magic Skill+1
+22 01		Enhancing Magic Skill+1
+*23 01		Enfeebling Magic Skill +1
+24 01		Elemental Magic Skill+1
+25 01		Dark Magic Skill+1
+26 01		Summoning Magic Skill+1
+*2a 01		Wind Instrument Skill +1
+2b 01		Blue Magic Skill+1
+<there are blanks from 2c to 3f>
+40 01		"Blood Pact" ability delay -1
+41 01		"Avatar Perpetuation Cost" -1
+42 01		Song Spellcasting Time -1
+43 01		"Cure" Spellcasting Time -1
+44 01		"Call Beast" Ability Delay -1
+45 01		"Quick Draw" Ability Delay -1
+*46 01		Weapon Skill Accuracy +1
+*47 01		Weapon skill damage +1%
+*48 01		Critical hit damage +1%
+*49 01		"Cure" potency +1%
+*4a 01		"Waltz" potency +1%
+*4b 01		"Waltz" ability delay -1
+<the rest are blanks up to 7f>
+
+
+BYTES		EFFECT (base value)
+00 02		STR+1
+01 02		DEX+1
+02 02		VIT+1
+03 02		AGI+1
+04 02		INT+1
+05 02		MND+1
+06 02		CHR+1
+07 02		STR-1
+08 02		DEX-1
+09 02		VIT-1
+0a 02		AGI-1
+0b 02		INT-1
+0c 02		MND-1
+0d 02		CHR-1
+0e 02		STR+1 DEX-1 VIT-1
+0f 02		STR+1 DEX-1 AGI-1
+10 02		STR+1 VIT-1 AGI-1
+11 02		STR-1 DEX+1 VIT-1
+12 02		STR-1 DEX+1 AGI-1
+13 02		DEX+1 VIT-1 AGI-1
+14 02		STR-1 DEX-1 VIT+1
+15 02		STR-1 VIT+1 AGI-1
+16 02		DEX-1 VIT+1 AGI-1
+17 02		STR-1 DEX-1 AGI+1
+18 02		STR-1 VIT-1 AGI+1
+19 02		DEX-1 VIT-1 AGI+1
+1a 02		AGI+1 INT-1 MND-1
+1b 02		AGI+1 INT-1 CHR-1
+1c 02		AGI+1 MND-1 CHR-1
+1d 02		AGI-1 INT+1 MND-1
+1e 02		AGI-1 INT+1 CHR-1
+1f 02		INT+1 MND-1 CHR-1
+20 02		AGI-1 INT-1 MND+1
+21 02		AGI-1 MND+1 CHR-1
+22 02		INT-1 MND+1 CHR-1
+23 02		AGI-1 INT-1 CHR+1
+24 02		AGI-1 MND-1 CHR+1
+25 02		INT-1 MND-1 CHR+1
+
+
+BYTES		EFFECT (base value)
+00 03		fire+1
+01 03		ice+1
+02 03		wind+1
+03 03		earth+1
+04 03		thunder+1
+05 03		water+1
+06 03		light+1
+07 03		dark+1
+08 03		fire-1
+09 03		ice-1
+0a 03		wind-1
+0b 03		earth-1
+0c 03		thunder-1
+0d 03		water-1
+0e 03		light-1
+0f 03		dark-1
+10 03		fire+1		water-1
+11 03		ice+1		fire-1
+12 03		wind+1		ice-1
+13 03		earth+1		wind-1
+14 03		thunder+1	earth-1
+15 03		water+1		thunder-1	
+16 03		light+1		dark-1		
+17 03		dark+1		light-1
+
+<The following augments are all additional effects, and do NOT stack with others, or with themselves.  If you add two or more of these augments, only the last one will be active, overriding the others.  Only weapons can recieve these augments.>
+*40 03		Additional effect: Fire damage +5
+*41 03		Additional effect: Ice damage +5
+*42 03		Additional effect: Wind damage +5
+*43 03		Additional effect: Earth damage +5
+*44 03		Additional effect: Lightning damage +5
+*45 03		Additional effect: Water damage +5
+*46 03		Additional effect: Light damage +5
+*47 03		Additional effect: Darkness damage +5
+*48 03		Additional effect: Disease +1
+*49 03		Additional effect: Paralysis +1
+*4a 03		Additional effect: Silence +1
+*4b 03		Additional effect: Slow +1
+*4c 03		Additional effect: Stun +1
+*4d 03		Additional effect: Poison +1
+*4e 03		Additional effect: Flash +1
+*4f 03		Additional effect: Blindness +1
+<blanks up to 59>
+
+<These are like the others, can stack.  However, they can only go on weapons.>
+*80 03		Sword enhancement spell damage +1
+*81 03		Enhances "Souleater" effect +1%
+<blanks up to 8f>

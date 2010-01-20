@@ -1,0 +1,16 @@
+QUESTS
+*making amens! (4) (involves mob drop)
+*wonder wands (5)
+
++inspector's gadget (2)
++onion rings (3)
+-crying over onions (5)
+-wild card (6)
+-the promise (9)
+
++all at sea (3)(can't fish, but can probably implement everything else)
+?discerning eye (1) (maybe?)
+-catch it if you can (3) (can't alter stats flags yet)
+-escort for hire (6) (maybe?)
+-one good deed (5) (fight)
+-orastery woes (WS quest)
