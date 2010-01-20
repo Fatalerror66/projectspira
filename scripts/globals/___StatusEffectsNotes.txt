@@ -1,0 +1,521 @@
+Version History
+V0.4 - Initial Release
+V0.46 - Adjusted Paralyze; added information to Beneficial status effects, added Blue Magic Spells, added Job Abilities.
+V0.47 - Adjusted Paralyze to match my testing; added a few bits here and there.
+V0.48 - Adjusted Paralyze again; added info on Bind; commented on Aquaveil.
+V0.48B - Adjusted Bind; minor edits on a few things.
+V0.60 - Major additions. Included in some sections are Data: [Spell Name], this is my own testing usually on Lv0 monsters for durations/potency. Sectioned off areas to hopefully make it easier to
+find what you are looking for.
+V0.60B - Added more blue magic durations.
+
+Kegsay's notes on just about everything related to status effects. Most of these are based off testing done by myself or others, neatly compiled into a text file for your viewing pleasure. Not all of this can be proven accurately, so some discrepencies may arise. The list:
+
+NOTES:
+Half resist = Sees if spell lands (using MACC/MEVA/MHIT) TWICE, if both miss, resist effect. If one lands, give half effect, if both hit, give full effect
+1/2/ 1/4 1/8 resist = See if spell lands (using MACC/MEVA/MHIT) FOUR times. This corresponds to damage dealt. (1/2 damage, 1/4 damage, etc). Possibility of 1/16 too?
+
+===========HARMFUL STATUS EFFECTS============
+
+--==Magical==--
+
+==Enfeebling Spells==
+
+===============================================================================================
+Sloooooooooooooooooooooooooooooooooooow
+===============================================================================================
+--Slow (90% COMPLETE)
+Slow potency is dependant on dMND (Your MND - Target MND), some spells have a fixed rate slow. Earth Shot (Quick Draw) adds 10% to the potency (e.g. 22% base, QD ups to 24%) which can break any and all slow caps. Adding 1 MND increases potency by 0.5%. Duration is specified for each spell and is subject to half resists (duration only).
+Slow I = (150 + dMNDx2)/1024 %slow, capped at 300/1024. = Is affected with QD = 120sec
+Slow II = Slow II% = ([230] + [y * 10] + [floor(dMND * 1.6)])/1024 /// Slow II% cap @ (350+[y*10])/1024 = 180sec
+Filamented Hold = 25% (static) = 120sec
+Bad Breath = 25% (static) = 
+Slowga (Leviathan) = 30% (static)
+Radiant Breath = 20% (static) = 90sec
+Sprout Smack = 15% (static) = 60sec
+Hojo: Ichi = 150/1024 (14.6% static) = 300sec
+Hojo: Ni = 200/1024 (19.5% static) = 300sec
+
+=====================================================================================================================================================
+Playername is paralyzed. Playername is paralyzed. Playername is paralyzed. Playername is paralyzed. Playername is paralyzed. Playername is paralyzed.
+=====================================================================================================================================================
+--Paralyze (85% COMPLETE)
+Paralyze potency is dependant on dMND (Your MND - Target MND) and casters MND, some spells have fixed rate paralyze. Ice Shot (Quick Draw) presumably adds 10% to the potency. Adding 1 MND increases potency by 0.375%
+
+Paralyze = CAP:23% = MND Dependant = Is boosted with QD = Duration 20-120 seconds with full hit, 10-60secs with half hit. Can estimate potency as (M*(MND+dMND))/10 %. The M mod changes with Level, estimated at 150/Level. Few examples:
+Player Level = 44, MND = 46, MonsterMND=50.
+Multiplier = 150/44 = 3.41
+Potency = (3.41 * (46-4)) / 10 % = 14.32%
+
+Paralyze II = CAP:40% = MND Dependant = Is not boosted with QD = Duration varies with merits, seems to be a set time based on merits only? Same formula as Paralyze I? With M=4????
+
+Thunderspark = 25% static?
+Ice Spikes = 25% static?
+Jubaku: Ichi = 10% static?
+Bad Breath = 10% static?
+Frost Breath = 15% static?
+Mind Blast = 22.5% static?, 90 seconds
+Reactor Cool = 25% static?
+Sub-zero Smash = 15% static?
+Crescent Fang = 22.5% static?
+
+==================================================================================================
+ Playername.                 Is.                  Bound.
+==================================================================================================
+--Bind (40% COMPLETE)
+Bind's chance of landing is dependant on Magical Accuracy. Duration follows a normal distribution around X seconds, with a MINIMUM duration of A and a MAXIMUM duration of B. Casting a magical spell on a binded target will reduce the duration by 1 second for every 100 damage dealt. Meleeing a binded target will reduce the duration by 1 second for every ~10 damage dealt. The chance of these taking effect is approximately 50%.
+
+Bind = Min=5sec, Max=60sec, Average=30sec
+Blastbomb = Min=5sec, Max=45?, Average=25sec?
+Light of Penance = 30 seconds static
+Ice Break = Min=5sec, Max=60sec, Average=30sec?
+Regurgitation = 30 seconds static
+Rock Buster (Titan) = 
+Mountain Buster (Titan) = 
+Shadowbind = 
+Shadowstitch = 
+
+Data: [Blastbomb] (Durations, Dhalmel;Buburimu)
+6,9,17,33,35
+Data: [Ice Break] (Durations, Dhalmel;Buburimu)
+17,19,25,29,34,50
+
+==================================================================================================
+ P  l  a  y  e  r  n  a  m  e    i s  w e ighed down.
+==================================================================================================
+--Gravity (10% COMPLETE)
+Gravity's chance of landing is dependant on Magical Accuracy. Duration is a random number between two numbers. Potency (movement speed reduction) appears to be dependant on the monsters original speed, could be either set reduction or a percentage, suspects percentage (speed/2). Possibly follows a similar duration pattern to Bind?
+Gravity = 30sec min, 120sec max, average=75sec
+Mysterious Light = 30sec min, 120sec max, average=75sec
+Magnetite Cloud = 30sec min, 120sec max, average=75
+
+Data: [Gravity Spell]
+On Lv0 monsters (duration):
+51,52,92,94,96,114,116
+56,56,63,67,103,109,113
+30,57,61,73,100,110,111
+
+Data: [Mysterious Light]
+Dhalmel;Buburimu (Duration):
+30,40,76,79,109
+
+==================================================================================================
+  8|^nd
+==================================================================================================
+--Blind (40% COMPLETE)
+Blind potency is dependant on dINT (Your INT - Monster INT), some spells have fixed rate blind. Dark Shot (Quick Draw) presumably adds 10% to the potency. Follows half resistance calculation which only applies to the DURATION, not the POTENCY. Example for duration, rand#(90~180). If resist, divide by 2, else leave it as is.
+Blind = Min Cap -5 acc, no upper cap. Formula is (dINT+60)/4 = Tier I = 90~180 seconds, can be 1/2 resist.
+Blind II = Min Cap -15 acc, no upper cap. Formula is (dINT+100)/4 = Tier II
+Kurayami: Ichi = Acc-20 = Tier I
+Kurayami: Ni = Acc-30 = Tier II
+Sandspray = 90~180 seconds, can be 1/2 resist.
+Light of Penance = 30 seconds static
+Hecatomb Wave = 
+Moonlit Charge (Fenrir) = 
+Nightmare Scythe = 
+Tachi: Yukikaze = 
+
+Data: [Blind Spell]
+On Lv0 monsters (duration):
+95,97,129,143,153
+
+Flash = Duration 12 secs if unresisted = Acc-360 which deteriorates over time (Acc+30 per second), if it wears off before 12 seconds, accuracy is immediately restored to full, the increments remain the same. Stacks with Blind.
+Actinic Burst = Duration 6 secs if unresisted = Acc-180 which deteriorates over time (Acc+30 per second) Stacks with Blind. This cannot overwrite Flash. Flash overwrites this.
+
+============================================================================================
+ 5..4...3..2..1..Death.                          Poison
+============================================================================================
+--Poison (70% COMPLETE)
+Each poison spell has a specific tick and duration. The tick will always remain the same on resists, but the duration will follow normal resistance calculations (1/2, 1/4, 1/8, 1/16)
+Poison = 4hp/tick, duration = 
+Poison II = 10hp/tick, duration = 
+Dokumori: Ichi = 1hp/tick, duration = 
+Queasyshroom = 3hp/tick, duration = 90 seconds STATIC
+Feather Storm = 1hp/tick, duration = 90 seconds STATIC
+Poison Breath = ??hp/tick, duration = 30 seconds STATIC
+Venom Shell = 8hp/tick, duration = 90 seconds STATIC
+Bad Breath = 1hp/tick, duration = 
+Disseverment = 18hp/tick = Duration 300 seconds, 100% proc unless immune?
+Poison Nails (Carbuncle) = 1hp/tick
+Mercy Stroke = 10hp/tick = Duration 20/40/60 seconds at 100/200/300 tp, 100% proc unless immune?
+Viper Bite = 2hp/tick =  Duration 20/40/60 seconds at 100/200/300 tp, 100% proc unless immune?
+Wasp Sting = 1hp/tick =  Duration 20/40/60 seconds at 100/200/300 tp, 100% proc unless immune?
+
+=============================================================================================
+       ..    zz        ZZ
+=============================================================================================
+--Sleep (COMPLETE)
+Chance of landing and duration are both affected by Magical Accuracy only. How the magical accuracy is calculated varies for each spell. In general:
+Magical Accuracy for Sleep = Specific Skill Level + Magical Accuracy from gear + C*Specific Attribute (C varies based on targets MEVA)
+The duration, tier, skill and attribute for each spell is as follows:
+Sleep I = duration 60 secs = Tier I = INT and Enfeebling Skill
+Sleep II = duration 90 secs = Tier II = INT and Enfeebling Skill
+Sleepga = duration 60 secs = Tier I = INT and Enfeebling Skill
+Sleepga II = duration 90 secs = Tier II = INT and Enfeebling Skill
+Sheep Song = duration 60 secs = Tier I = INT and Blue Magic Skill
+Horde Lullaby = Base duration is 30 secs, each Lullaby+1 adds 3 seconds. = Tier I = CHR and Singing Skill+Instrument Skill
+Foe Lullaby = Base duration is 30 secs, each Lullaby+1 adds 3 seconds. = Tier I = CHR and Singing Skill+Instrument Skill
+Yawn = Gaze move, 90 secs = Tier II = INT and Blue Magic Skill
+Soporific = duration 90 secs = Tier II = INT and Blue Magic Skill
+Pinecone Bomb = duration 60 secs = Tier I? = INT and Blue Magic Skill
+Repose = duration 90 secs = Tier II = MND and Divine Magic Skill
+Light Shot (QD) = duration 60 secs = Tier I = AGI and Marksmanship Skill
+Sleepga (Shiva) = duration 90 secs = Tier I = Unknown (presumably INT of AVATAR) and Summoning Magic Skill
+Nightmare (Diabolos) = duration 90 secs = Tier I = Unknown (presumably INT of AVATAR) and Summoning Magic Skill
+
+Using normal MHit Ratio calculations, the durations are all or half. (4 checks?) if hit4=full, hit3=full, hit2=half, hit1=half, hit0=resist?
+Sleep I = 60 sec, 1/2=30
+Sleep II = 90 sec, 1/2=45
+
+===================================================================================================
+
+===================================================================================================
+--Silence
+Silence duration varies based on resistance (normal resistance calculations). Magical Accuracy is calculated using the skill type (Enfeebling, Blue Magic, etc) combined with an attribute. Possibly follows a similar duration pattern to Bind? Durations and attributes are listed below:
+Silence = Duration = MND
+Chaotic Eye = Duration = INT
+Bad Breath = Duration = INT
+Guillotine = Duration 20/40/60 secs @ 100/200/300 TP = None? 100% proc unless immune?
+Tachi: Gekko = Duration 20 secs = None? 100% proc unless immune?
+
+
+===================================================================================================
+ STUN        STUN            STUN            STUN         
+===================================================================================================
+--Stun
+Stun
+Shock Spikes
+Head Butt
+Temporal Shift
+Blitzstrahl
+Frypan
+Tail Slap
+Plasma Charge
+Shield Bash
+Weapon Bash
+Blade Bash
+Violent Flourish
+Shock Strike
+Chaotic Strike
+Geocrush
+Shoulder Tackle
+Flat Blade
+Leg Sweep
+Smash Axe
+Brainshaker
+Tachi: Hobaku
+
+
+========================================
+--Helix Spells
+Varies based on weather. Normal duration is 60 seconds. DoT "tick" is every 9 seconds not 3. If matches weather, +6 seconds (10%). Damage dealt follows elemental nukes.
+ReaperX comment: Kanican disagrees with that information: http://kanican.livejournal.com/41053.html
+
+
+"Helix duration varies from 45 to 90 seconds.  Weather, Day, Obis, Equip, MACC, Elemental Seal, all have NO EFFECT on the duration - it is purely random. 
+I could go days talking about how this was found but seeing as I am rushing this post, please just take my word for it."
+
+Kegsay comment: Kanican provides good information, but without testing and numbers I can't just 'take his word for it'. Average duration is around 60 seconds from my experience, and whilst I'm sure it can go between 45-90 seconds, randomness sounds like a cop-out, there's most likely a half resist going on. It could be just purely random, but without at least a bit of testing, I'm finding it hard to just take his word.
+
+==========================================
+--Dia
+Will always reduce DEF and deal dot. DoT damage affected by Enfeebling Magic Skill.
+Dia (120sec)-Reduces DEF by 27/512 (5.27%). 1hp/tick, softcap 2hp/tick  
+Dia II (120sec)- Reduces DEF by 53/512 (10.35%). 2hp/tick, softcap 8hp/tick
+Dia III - Reduces DEF by 39/256 (15%). Initial Merit =30sec duration, extra merits = +30sec. Min 3hp/tick, Softcap 16hp/tick.
+
+Dia and Bio do not stack. 
+Bio III > Dia III > Bio II > Dia II > Bio > Dia 
+
+==========================================
+--Bio
+Will always reduce ATK and deal dot. DoT damage affected by Dark Magic Skill.
+Bio (120 sec) - 27/512 (5.27%) - 3hp/tick
+Bio II (120 sec) - 53/512 (10.35%)
+    Dark Magic Skill 200 - 210 = 5/tick 
+    Dark Magic Skill 211 - 268 = 6/tick 
+    Dark Magic Skill 269 - 290 = 7/tick 
+    Dark Magic Skill 291 - ??? = 8/tick 
+Bio III (30sec, +30sec per extra merit) - 39/256 (15%)
+    Dark Magic Skill ??? - 210 = 7/tick 
+    Dark Magic Skill 211 - 250 = 8/tick 
+    Dark Magic Skill 251 - ??? = 9/tick 
+
+Dia and Bio do not stack. 
+Bio III > Dia III > Bio II > Dia II > Bio > Dia 
+
+==========================================
+--Elemental Debuffs (e.g. Drown) (COMPLETE)
+    * 1 - 39 INT = 1hp/tic (-5 stat)
+    * 40 - 69 INT = 2hp/tic (-7 stat)
+    * 70 - 99 INT = 3hp/tic (-9 stat)
+    * 100 - 149 INT = 4hp/tic (-11 stat)
+    * 150 - ??? INT = 5hp/tic (-13 stat) 
+Is not dependant on monster INT, only player INT.
+Cold Wave = AGI-35, deteriorating over time. 18hp/tick constant. Duration 30 seconds const.
+Gale Axe = Same as Elemental Debuff but STR instead. Duration 20/40/60 seconds at 100/200/300 TP.
+
+============================================
+--Plague (MP and TP drain)
+Lowing - Drains 3mp/5tp per tick. 30~60 sec random?
+Data: [Lowing] (Duration; Dhalmel;Buburimu)
+39,45,46,55
+
+
+Blade Bash - 
+
+============================================
+--Killer Effects (COMPLETE)
+The percentage shown is the proc rate.
+
+Bibiki Seashell: 481/10186 = 4.72%
+Koenig Shield 447/11178 = 3.99%
+Fowling Earring 364/11494 = 3.16%
+Byakko's Axe: 422/10419 = 4.05%
+Suzaku's Scythe: 397/9983 = 3.98%
+Tatami Shield: 240/12111 = 1.98%
+BST: 925/11200 = 8.26%
+BST + Beast Trousers: 988/11042 = 8.95%
+Bahamut's Mask: 4/468 = 0.85%
+Panther Mask: 4.79%
+Goblin Chocolate: 9.84%
+Hobgoblin Chocolate: 12.07%
+
+==============================================
+--Blue Magic
+Frightful Roar = 180 seconds static, DEF-(26/256)
+Infrasonics = 60 seconds static, EVA-20
+Awful Eye = 30 seconds static, STR-33
+Stinking Gas = 90 seconds static, VIT-10
+Sound Blast = 90 seconds static, INT-9
+Feather Tickle = TP-???
+Enervation = 30seconds static.
+Radiant Breath = 90 seconds static for silence/slow, can be 45 (1/2 resist).
+Jettatura = Max 10 seconds? Subject to major resistance in 1/2 1/4 1/8 form.
+Terror Touch = 60 seconds static, ATTK-??
+Spiral Spin = 45 seconds static
+Sub-zero Smash = 180 seconds static
+Battle Dance = 90 seconds static
+
+
+Note: Durations are my own testing.
+
+See: http://www.neko-sentai.com/images/BlumageNFO.htm for more info on blue damage.
+
+
+=========== BENEFICIAL STATUS EFFECTS ===========
+
+--==Spells==--
+
+--Aquaveil
+-25% Spell Interruption Rate. Duration varies on Enhancing Skill.
+Duration test: (Done with Light Arts)
+210 Enhancing = 5min capped.
+256 Enhancing = 5min capped.
+Theory: Duration (sec) = EnhancingSkill/CappedEnhancingSkillForLevel * 300
+
+
+See also 
+http://www.bluegartrls.com/forum/82143-spell-interruption-down-cap-aquaveil-tests-2.html#post3098904
+
+Aquaveil spell interruption down effect may be -25%. Suiram suggests that the formula is 
+total interruption chance = (chance to interrupt based on magic skill vs. enemy's relevant attributes/skills/levels) * (1 - (% interruption rate from gear + % interruption rate from aquaveil)) 
+
+EDIT:Confirmed -25%, thanks Reaper. The formula from my brief testing varies from that listed, namely being:
+
+Chance = (A+ Skill Rank for your Level)/(Current Skill Level) * (Something involving Level Difference) * (1-(% interruption rate from gear/spells))
+
+Further testing needed.
+
+--Auspice
+
+
+--Blink
+Blink - 2 shadows.
+Zeyphr Mantle - 4 shadows.
+Aerial Armor - 3 shadows.
+Chance of shadow taking a hit = 75%?
+
+--Copy Image
+Utsusemi: Ichi = 3 shadows
+:Ni = 4 shadows, 3 with /nin.
+AoE spells remove all shadows. Some monster WSes do too.
+
+--Sneak/Invisible/Deodorize
+Skulker's Cape adds 50% of what would be the duration to sneak and invisible. Normal duration is rand# between 10-120?
+
+--Enspell
+Day/Weather mods are 0.1 for each, 0.25 for double weather (total)
+
+Tier I spells:
+if (Enhancing Skill < 150) { sqrt[(enhancing skill-1)*(weather/day mod)] }
+if (Enhancing Skill => 150) { (enhancing skill/20 + 5)*(weather/day mod) }
+Duration 180 seconds.
+
+Tier II spells:
+Same calculation as Tier I spells. After a successful hit however, damage is increased by 1.
+The cap is at BASE*2, where BASE is the damage the Tier I would do. +Sword Enhance Spell Damage
+does NOT affect the base. e.g.
+Enaero does 14 damage, Enaero II does 14 first hit, 15 second, 16 17 18 19 20 21 22 23 24 25 26
+27 28, capped at 28 until effect wears. +EnhanceSpellDamage gear is added to all of these, same cap.
+Duration 180 seconds.
+
+--Spikes
+Duration of the BLM spells = 3minutes.
+Blaze Spikes = floor[(INT+2)/12 + 4] * MAB/MDB
+Ice Spikes and Shock Spikes = floor[(INT+10)/20 + 2) * MAB/MDB
+
+
+--Phalanx
+Phalanx = Enhancing Magic Skill/10 - 2
+NOTE: This formula deteriorates at higher levels of skill according to BG.
+
+--Refresh
+3mp/tick, 2min 30sec.
+
+FOOD REFRESH:
+Orange Juice = 1mp/tick, 90 seconds.
+Apple Juice = 1mp/tick, 135 seconds.
+Tomato Juice = 1mp/tick, 180 seconds.
+Pineapple Juice - 1mp/tick, 240 seconds
+Grape Juice - 2mp/tick, 90 seconds
+Melon Juice - 2mp/tick, 135 seconds
+Vampire Juice - 2mp/tick, 150 seconds
+Yagudo Drink - 2mp/tick, 180 seconds
+Strange Juice - 2mp/tick, 300 seconds
+Amrita - 5mp/tick, 300 seconds 
+
+--Regen
+Cleric's Briault adds +1hp/tick to Regen I, +2hp/tick to Regen II and +3hp/tick to Regen III.
+Regen merits add +1hp/tick to all Regens per merit.
+
+Regen I = 5hp/tick, 75 seconds.
+Regen II = 12hp/tick, 60 seconds.
+Regen III = 20hp/tick, 60 seconds.
+
+FOOD REGEN:
+Soy Milk = 1hp/tick, 60 seconds.
+Yogurt = 1hp/tick, 120 seconds.
+Selbina Milk = 1hp/tick, 120 seconds. (Dream Robe +1 increases potency to 2hp, duration to 150)
+Orange au Lait = 1hp/tick, 300 seconds
+Apple au Lait = 2hp/tick, 180 seconds
+Pamama au Lait = 2hp/tick, 600 seconds
+Pear au Lait = 3hp/tick, 300 seconds
+Persikos au Lait = 4hp/tick, 600 seconds
+Strange Milk = 5hp/tick, 300 seconds
+Amrita = 5hp/tick, 300 seconds
+Ayran = 2hp/tick, 180 seconds
+Uleguerand Milk = 2hp/tick, 180 seconds
+Buffalo Bonanza Milk = 2hp/tick, 120 seconds
+Vampire Juice = 2hp/tick, 90 seconds
+
+--Reraise
+All of them last 1 hour.
+
+
+--Protect
+I = DEF+10
+II = DEF+25
+III = DEF+40
+IV = DEF+55
+V =  DEF+60 (additional merits are DEF+2 each)
+
+--Shell
+
+--Stoneskin
+X = Enhancing Magic Skill/3 + MND
+if (X<80) { Stoneskin=X }
+if (80<= X <= 130) { Stoneskin=(2*X-60) } 
+if (X > 130) { Stoneskin=(3*X-190) }
+
+Notes: Stone Gorget adds a static value of 30 to Stoneskin. Stone Mufflers also add 30. These can break the cap of 350 Stoneskin for a total of 410 damage absorbed.
+
+Reaperx comment: This formula is discontinuous between the first and 2nd tier. At X=80, Stoneskin jumps from 79 to 100. This suggests that the formula is in error. By replacing
+the 80 by 60, you can make the formula continuous:
+
+if (X<60) { Stoneskin=X }
+if (60<= X <= 130) { Stoneskin=(2*X-60) } 
+if (X > 130) { Stoneskin=(3*X-190) }
+
+Both formulas agree at X=60 and predict a value of 60. This should be tested.
+
+--Absorb Spells (ReaperX):
+
+I don't know how stacking works on retail, but I decided not to allow multiple VIT Down 
+effects on a target, or multiple VIT Boosts on the caster. This avoids several problems:
+1. Chainspell Absorb draining a target's {stat} below zero
+2. Chainspell or Manifestation Absorb boosting the caster's {stat} to absurd levels
+ 
+But as a side effect, {stat} Boost from absorb won't stack with Ecliptic Growl and/or {stat} Potion,
+and manifestation will make no difference for absorb spells, it will just work on the first target
+and have no effect on others. I don't know whether that is the behavior on retail.
+
+--==Blue Magic Spells==--
+Metallic Body = Blue Magic Skill/3 + Level/3, duration 300 seconds.
+Cocoon = DEF+50% (note the %!!), duration 90 seconds.
+Refueling = 10% haste, duration 300 seconds. Overwriten by Haste/Hastega.
+Warm-Up = EVA+10 ACC+10, duration 180 seconds.
+Diamondhide = 2/3 * Blue Magic Skill, duration 300 seconds.
+Reactor Cool = DEF+12%, Ice Spikes. duration 120 seconds. DEF boost overwrites Cocoon, Cocoon overwrites this too though, so they overwrite each other.
+Plasma Charge = Shock Spikes, duration 60 seconds.
+
+
+--==Songs==--
+
+
+--==Rolls==--
+
+
+--==Abilities==--
+Feint = Next attack (needs to connect) will reduce mob eva by 50%. Duration 60 seconds effect on the player. Once on the monster, duration on monster = 30secs. Evasion reduction deteriorates over the 30 seconds. The attack MUST be a physical melee hit, no weaponskills, ranged attacks or misses allowed. Misses will NOT remove the effect. Damage need not be inflicted, 0 damage hits will work.
+
+Boost = duration 180 seconds, raises attack by 12.5%. Stacks with itself. Any hit (miss included) will remove the effect. Temple Gloves = +18.75% instead of +12.5% (50% increase)
+
+Dodge = EVA+20, 120 second duration. Temple Gaiters=EVA+30.
+
+Focus = ACC+20, 120 second duration. Temple Crown = ACC+30.
+
+Berserk = Attack+25%/RAttack+25%, DEF-25%, 180 seconds. Warrior's Calligae = DEF-15% instead.
+
+Defender = DEF+25%, Attack-25%, 180 seconds. 
+
+Aggressor = ACC+25, EVA-25, 180 seconds.
+
+
+==================Other=================
+
+--Weakness (Upon Raise)
+HP/MP to 25% of normal value.
++100% slow.
+5 minute duration.
+
+--Dynamis Weakness (Upon re-entering a Dynamis area)
+HP/MP to 10% of normal value.
++150% slow.
+10 minute duration.
+
+--Double Weakness (Upon Raise after being Weakened before)
+HP/MP to 25% of normal value.
++100% slow.
+Accuracy = 1.
+Attack = 1.
+Evasion = 1.
+Defence = 1.
+Ranged Accuracy = 1.
+Ranged Attack = 1.
+Attributes (STR/DEX/ETC) = 1.
+5 minute duration.
+
+--Blinding Potion
+=Accuracy-256
+
+
+[[[[[Monster-Related]]]]]]
+
+==============================================================
+
+
+Misc. Notes
+
+
+Using Soul Trapper packet decoding, it has been discovered that Campaign monsters are Level 69-70. Including Boss NMs. This appears to be universal.
+

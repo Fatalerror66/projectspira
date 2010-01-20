@@ -1,0 +1,313 @@
+
+@zone
+From ProjectXI Developmet Wiki
+Jump to: navigation, search
+
+This is a list of the current known zones. (EXAMPLE: @zone 0Xf5) this will zone you to Lower Jeuno. Any zone labeled as unknown may cause the client to crash.
+
+Current Known Zones:
+
+    * 00 Unknown_Hilly
+    * 01 Phanauet_Channel
+    * 02 Carpenters'_Landing
+    * 03 Manaclipper
+    * 04 Bibiki_Bay
+    * 05 Uleguerand_Range
+    * 06 Bearclaw_Pinnacle
+    * 07 Attohwa_Chasm
+    * 08 Boneyard_Gully
+    * 09 Pso'Xja
+    * 0A The_Shrouded_Maw
+    * 0B Oldton_Movalpolos
+    * 0C Newton_Movalpolos
+    * 0D MineShaft_#2716
+    * 0E Hall_of_Transference
+    * 0F None_Test_Zone
+    * 10 Promyvion_Holla
+    * 11 Spire_of_Holla
+    * 12 Promyvion_Dem
+    * 13 Spire_of_Dem
+    * 14 Promyvion_Mea
+    * 15 Spire_of_Mea
+    * 16 Promyvion_Vahzl
+    * 17 Spire_of_Vahzl
+    * 18 Lufaise_Meadows
+    * 19 Misareaux_Coast
+    * 1A Tavnazian_Safehold
+    * 1B Phomiuna_Aqueducts
+    * 1C Sacrarium
+    * 1D Riverne_Site_#B01
+    * 1E Riverne_Site_#A01
+    * 1F Monarch_Linn
+    * 20 Sealion's_Den
+    * 21 Al'Taieu
+    * 22 Grand_Palace_of_Hu'Xzoi
+    * 23 The_Garden_of_Ru'Hmet
+    * 24 Empyreal_Paradox
+    * 25 Temenos
+    * 26 Apollyon
+    * 27 Dynamis_Valkurm
+    * 28 Dynamis_Buburimu
+    * 29 Dynamis_Qufim
+    * 2A Dynamis_Tavnazia
+    * 2B Diorama_Abdhaljs_Ghelsba
+    * 2C Abdhaljs_Isle_Purgonorgo
+    * 2D None_Castle_Zvahl_Type_Zone
+    * 2E Open_sea_route_to_Al_Zahbi 
+    * 2F Open_sea_route_to_Mhaura
+    * 30 Al_Zahbi
+    * 31 None_Test_Zone
+    * 32 Aht_Urhgan_Whitegate
+    * 33 Wajaom_Woodlands
+    * 34 Bhaflau_Thickets
+    * 35 Nashmau
+    * 36 Arrapago_Reef
+    * 37 Ilrusi_Atoll
+    * 38 Periqia
+    * 39 Talacca_Cove
+    * 3A Silver_Sea_route_to_Nashmau
+    * 3B Silver_Sea_route_to_Al_Zahbi
+    * 3C The_Ashu_Talif
+    * 3D Mount_Zhayolm
+    * 3E Halvung
+    * 3F Lebros_Cavern
+    * 40 Navukgo_Execution_Chamber
+    * 41 Mamook
+    * 42 Mamool_Ja_Training_Grounds
+    * 43 Jade_Sepulcher
+    * 44 Aydeewa_Subterrane
+    * 45 Leujaoam_Sanctum
+    * 46 Chocobo_Circuit
+    * 47 The_Colosseum
+    * 48 Alzadaal_Undersea_Ruins
+    * 49 Zhayolm_Remnants
+    * 4A Arrapago_Remnants
+    * 4B Bhaflau_Remnants
+    * 4C Silver_Sea_Remnants
+    * 4D Nyzul_Isle
+    * 4E Hazhalm_Testing_Grounds
+    * 4F Caedarva_Mire
+    * 50 Southern_San_d'Oria_[S]
+    * 51 East_Ronfaure_[S]
+    * 52 Jugner_Forest_[S]
+    * 53 Vunkerl_Inlet_[S]
+    * 54 Batallia_Downs_[S]
+    * 55 La_Vaule_[S]
+    * 56 Everbloom_Hollow
+    * 57 Bastok_Markets_[S]
+    * 58 North_Gustaberg_[S]
+    * 59 Grauberg_[S]
+    * 5A Pashhow_Marshlands_[S]
+    * 5B Rolanberry_Fields_[S]
+    * 5C Beadeaux_[S]
+    * 5D Ruhotz_Silvermines
+    * 5E Windurst_Waters_[S]
+    * 5F West_Sarutabaruta_[S]
+    * 60 Fort_Karugo-Narugo_[S]
+    * 61 Meriphataud_Mountains_[S]
+    * 62 Sauromugue_Champaign_[S]
+    * 63 Oztroja_Castle_[S]
+    * 64 West_Ronfaure
+    * 65 East_Ronfaure
+    * 66 La_Theine_Plateau
+    * 67 Valkurm_Dunes
+    * 68 Jugner_Forest
+    * 69 Batallia_Downs
+    * 6A North_Gustaberg
+    * 6B South_Gustaberg
+    * 6C Konschtat_Highlands
+    * 6D Pashhow_Marshlands
+    * 6E Rolanberry_Fields
+    * 6F Beaucedine_Glacier
+    * 70 Xarcabard
+    * 71 Cape_Teriggan
+    * 72 Eastern_Altepa_Desert
+    * 73 West_Sarutabaruta
+    * 74 East_Sarutabaruta
+    * 75 Tahrongi_Canyon
+    * 76 Buburimu_Peninsula
+    * 77 Meriphataud_Mountains
+    * 78 Sauromugue_Champaign
+    * 79 The_Sanctuary_of_Zi'Tah
+    * 7A Ro'Maeve
+    * 7B Yuhtunga_Jungle
+    * 7C Yhoator_Jungle
+    * 7D Western_Altepa_Desert
+    * 7E Qufim_Island
+    * 7F Behemoth's_Dominion
+    * 80 Valley_of_Sorrows
+    * 81 Ghoyu's_Reverie
+    * 82 Ru'Aun_Gardens
+    * 83 Mordion_Gaol
+    * 84 Unknown_Red_Valley
+    * 85 Unknown_Character_Creation
+    * 86 Dynamis_Beaucedine
+    * 87 Dynamis_Xarcabard
+    * 88 Beaucedine_Glacier_[S]
+    * 89 Xarcabard_[S]
+    * 8A Castle_Zvahl_Baileys_[S]
+    * 8B Horlais_Peak
+    * 8C Ghelsba_Outpost
+    * 8D Fort_Ghelsba
+    * 8E Yughott_Grotto
+    * 8F Palborough_Mines
+    * 90 Waughroon_Shrine
+    * 91 Giddeus
+    * 92 Balga's_Dais
+    * 93 Beadeaux
+    * 94 Qulun_Dome
+    * 95 Davoi
+    * 96 Monastic_Cavern
+    * 97 Castle_Oztroja
+    * 98 Altar_Room
+    * 99 The_Boyahda_Tree
+    * 9A Dragon's_Aery
+    * 9B Castle_Zvahl_Keep_[S]
+    * 9C Throne_Room_[S]
+    * 9D Middle_Delkfutt's_Tower
+    * 9E Upper_Delkfutt's_Tower
+    * 9F Temple_of_Uggalepih
+    * A0 Den_of_Rancor
+    * A1 Castle_Zvahl_Baileys
+    * A2 Castle_Zvahl_Keep
+    * A3 Sacrificial_Chamber
+    * A4 Garlaige_Citadel_[S]
+    * A5 Throne_Room
+    * A6 Ranguemont_Pass
+    * A7 Bostaunieux_Oubliette
+    * A8 Chamber_of_Oracles
+    * A9 Toraimarai_Canal
+    * AA Full_Moon_Fountain
+    * AB Crawlers'_Nest_[S]
+    * AC Zeruhn_Mines
+    * AD Korroloka_Tunnel
+    * AE Kuftal_Tunnel
+    * AF The_Eldieme_Necropolis_[S]
+    * B0 Sea_Serpent_Grotto
+    * B1 Ve'Lugannon_Palace
+    * B2 The_Shrine_of_Ru'Avitau
+    * B3 Stellar_Fulcrum
+    * B4 La'Loff_Amphitheater
+    * B5 The_Celestial_Nexus
+    * B6 Walk_of_Echos
+    * B7 The_Last_Stand
+    * B8 Lower_Delkfutt's_Tower
+    * B9 Dynamis_San_d'Oria
+    * BA Dynamis_Bastok
+    * BB Dynamis_Windurst
+    * BC Dynamis_Jeuno
+    * BD Unknown_Unopened_Moghouse
+    * BE King_Ranperre's_Tomb
+    * BF Dangruf_Wadi
+    * C0 Inner_Horutoto_Ruins
+    * C1 Ordelle's_Caves
+    * C2 Outer_Horutoto_Ruins
+    * C3 The_Eldieme_Necropolis
+    * C4 Gusgen_Mines
+    * C5 Crawlers'_Nest
+    * C6 Maze_of_Shakhrami
+    * C7 Unknown__Unopened_Moghouse
+    * C8 Garlaige_Citadel
+    * C9 Cloister_of_Gales
+    * CA Cloister_of_Storms
+    * CB Cloister_of_Frost
+    * CC Fei'Yin
+    * CD Ifrit's_Cauldron
+    * CE Qu'Bia_Arena
+    * CF Cloister_of_Flames
+    * D0 Quicksand_Caves
+    * D1 Cloister_of_Tremors
+    * D2 Unknown_Test_Zone
+    * D3 Cloister_of_Tides
+    * D4 Gustav_Tunnel
+    * D5 Labyrinth_of_Onzozo
+    * D6 Al_Zahbi_Residential_Area
+    * D7 Jeuno_Residential_Area
+    * D8 San_d'Oria_Residential_Area
+    * D9 Bastok_Residential_Area
+    * DA Windurst_Residential_Area
+    * DB Unknown_Unopened_Moghouse
+    * DC Ship_bound_for_Selbina
+    * DD Ship_bound_for_Mhaura
+    * DE Unknown_Test_Zone
+    * DF San_d'Oria_Jeuno_Airship
+    * E0 Bastok_Jeuno_Airship
+    * E1 Windurst_Jeuno_Airship
+    * E2 Kazham_Jeuno_Airship
+    * E3 Ship_bound_for_Selbina
+    * E4 Ship_bound_for_Mhaura
+    * E5 Unknown_Nothing
+    * E6 Southern_San_d'Oria
+    * E7 Northern_San_d'Oria
+    * E8 Port_San_d'Oria
+    * E9 Chateau_d'Oraguille
+    * EA Bastok_Mines
+    * EB Bastok_Markets
+    * EC Port_Bastok
+    * ED Metalworks
+    * EE Windurst_Waters
+    * EF Windurst_Walls
+    * F0 Port_Windurst
+    * F1 Windurst_Woods
+    * F2 Heavens_Tower
+    * F3 Ru'Lude_Gardens
+    * F4 Upper_Jeuno
+    * F5 Lower_Jeuno
+    * F6 Port_Jeuno
+    * F7 Rabao
+    * F8 Selbina
+    * F9 Mhaura
+    * FA Kazham
+    * FB Hall_of_the_Gods
+    * FC Norg
+    * FD San_d'Oria_Residential_Area
+    * FE Bastok_Residential_Area
+    * FF Windurst_Residential_Area 
+
+Retrieved from "http://www.projectxi.org/wiki/index.php/%40zone"
+Views
+
+    * Article
+    * Discussion
+    * Edit
+    * History
+    * Move
+    * Watch
+
+Personal tools
+
+    * Blasingame
+    * My talk
+    * My preferences
+    * My watchlist
+    * My contributions
+    * Log out
+
+Navigation
+
+    * Main Page
+    * Community portal
+    * Current events
+    * Recent changes
+    * Random page
+    * Help
+    * Donations
+
+Search
+ 
+Toolbox
+
+    * What links here
+    * Related changes
+    * Special pages
+    * Printable version
+    * Permanent link
+
+Powered by MediaWiki
+
+    * This page was last modified 16:54, 25 April 2008.
+    * This page has been accessed 210 times.
+    * Privacy policy
+    * About ProjectXI Developmet Wiki
+    * Disclaimers
+

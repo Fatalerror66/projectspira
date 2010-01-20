@@ -1,0 +1,30 @@
+QUESTS
+
+*Early Bird Catches the Bookworm (2)
++Chasing Tales (3)
++A Smudge on One's Record (4)
+
++Overnight Delivery (2) (can do timers now)
++Water Way to Go (3)
+-Blue Ribbon Blues (5) (fight)
+-Toraimarai Turmoil (6) (no problems except high fame and previous quest)
+
+*Let Sleeping Dogs Lie (4)
+
+-Scooped! (2) (fishing)
+
++Making the Grade (3)
+
+*A Crisis in the Making (2)
++Acting in Good Faith (4)
+-Babban Ny Mheilea (?, goddess)
+-EcoWarrior (1) (fight and level cap)
+?Heaven Cent (5) (treasure chests)
+-Hoist the Jelly, Roger (?) (Jeuno quest chain)
+-The Moonlit Path (6) (fight, end of a long chain)
++Say it with Flowers (2)
++Tuning In (5, Promathia)
+-Tuning Out (6, Promathia)
+-Waking Dreams (6) (fight)
+-Wild Card (6) (far into the onion quest chain)
++Wondering Minstrel (5)

@@ -1,0 +1,59 @@
++ Apocalypse Nigh
+Type: General
+Starter: Esha'ntarl
+Req: ?
+
++ Ducal Hospitality (R)
+Type: General
+Starter: Taillegeas (I-7)
+Req: ?
+
++ Empty Memories (R)
+Type: General
+Starter: Harith (H-5)
+Req: ?
+
++ Northward
+Type: Map
+Starter: Radeivepart
+Req: Fame 4
+
++ Shadows of the Departed
+Type: General
+Starter: Esha'ntarl
+Req: ?
+
++ Storms of Fate
+Type: General
+Starter: Esha'ntarl
+Req: ?
+
++ In Defiant Challenge (DONE)
+Type: Limit Break (1)
+Starter: Maat (H-5)
+Req: Level 50
+
++ Atop the Highest Mountain (DONE)
+Type: Limit Break (2)
+Starter: Maat (H-5)
+Req: Level 51
+
++ Whence Blows the Wind (DONE)
+Type: Limit Break (3)
+Starter: Maat (H-5)
+Req: Level 56
+
++ Riding on the Clouds (DONE)
+Type: Limit Break (4)
+Starter: Maat (H-5)
+Req: Level 51
+
++ Shatter Stars (DONE)
+Type: Limit Break (5)
+Starter: Maat (H-5)
+Req: Level 66
+
++ Beyond the Sun
+Type: General
+Starter: Maat (H-5)
+Req: Level 66

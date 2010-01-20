@@ -1,0 +1,75 @@
+The following Weapon Skills are missing as of REV1405:
+35 missing, 125 coded.
+
+ARCHERY
+Flaming Arrow
+Piercing Arrow
+Dulling Arrow
+Sidewinder
+Blast Arrow
+Arching Arrow
+Empyreal Arrow
+Namas Arrow
+
+AXE
+-
+
+CLUB
+-
+
+DAGGER
+-
+
+GREAT AXE
+-
+
+GREAT KATANA
+Tachi: Goten
+
+GREAT SWORD
+-
+
+HAND TO HAND
+Combo
+Shoulder Tackle
+One Inch Punch
+Backhand Blow
+Raging Fists
+Spinning Attack
+Howling Fist
+Dragon Kick
+Asuran Fists
+Final Heaven
+Ascetic's Fury
+Stringing Pummel
+
+KATANA
+Blade: Ei
+
+MARKSMANSHIP
+Hot Shot
+Split Shot
+Sniper Shot
+Slug Shot
+Blast Shot
+Heavy Shot
+Detonator
+Coronach
+Trueflight
+Leaden Salute
+
+POLEARM
+-
+
+SCYTHE
+-
+
+STAFF
+-
+
+SWORD
+Atonement
+Expiacion
+Death Blossom
+
+

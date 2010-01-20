@@ -1,0 +1,347 @@
+-------------------------------------------------------------
+
+Organizer: Caspian
+Description: A compiled list of Group and Mission IDs
+
+-------------------------------------------------------------
+
+Functions:
+	(scripting)	getMissionStatus(GroupID,MissionID)
+	(scripting)	setMissionStatus(GroupID,MissionID)
+	(In Game)	@setmission GroupID MissionID Status
+
+-------------------------------------------------------------
+
+Status:
+	0	Not activated yet
+	1	Activated
+	2	Completed
+	
+-------------------------------------------------------------
+
+Group IDs:
+	0	Sandy
+	1	Bastok
+	2	Windy
+	3	Zilart
+	4	ToAU
+	5	WotG
+	6	Promathia
+	7	Assault
+	8	Campaign
+	10	ACP
+
+-------------------------------------------------------------
+	
+Mission IDs:
+
+	/////////////////////////////////////////////////////////
+	//  San d'oria (0):                                    //
+	/////////////////////////////////////////////////////////
+	
+		0	Smash the Orcish Scouts
+		1	Bat Hunt
+		2	Save the Children
+		3	The Rescue Drill
+		4	The Davoi Report
+		5	Journey Abroad
+		6	Journey to Bastok
+		7	Journey to Windurst
+		8	Journey to Bastok
+		9	Journey to Windurst
+		10	Infiltrate Davoi
+		11	The Crystal Spring
+		12	Appointment to Jeuno
+		13	Magicite (San d'Oria)
+		14	The Ruins of Fei'Yin
+		15	The Shadow Lord
+		16	Leaute's Last Wishes
+		17	Ranperre's Final Rest
+		18	Prestige of the Papsque
+		19	The Secret Weapon
+		20	Coming of Age
+		21	Lightbringer
+		22	Breaking Barriers
+		23	The Heir to the Light
+		
+	/////////////////////////////////////////////////////////
+	//  Bastok (1):                                        //
+	/////////////////////////////////////////////////////////
+	
+		0	The Zeruhn Report
+		1	Geological Survey
+		2	Fetichism
+		3	The Crystal Line
+		4	Wading Beasts
+		5	The Emissary
+		6	The Emissary (San d'oria)
+		7	The Emissary (Windurst)
+		8	The Emissary (San d'oria)
+		9	The Emissary (Windurst)
+		10	The Four Musketeers
+		11	To the Forsaken Mines
+		12	Jeuno
+		13	Magicite (Bastok)
+		14	Darkness Rising
+		15	Xarcabard, Land of Truths
+		16	Return of the Talekeeper
+		17	The Pirate's Cove
+		18	The Final Image
+		19	On My Way
+		20	The Chains That Bind Us
+		21	Enter the Talekeeper
+		22	The Salt of the Earth
+		23	Where Two Paths Converge
+		
+	/////////////////////////////////////////////////////////	
+	//  Windurst (2):                                      //
+	/////////////////////////////////////////////////////////
+	
+		0	The Horutoto Ruins Experiment
+		1	The Heart of the Matter
+		2	The Price of Peace
+		3	Lost for Words
+		4	A Testing Time
+		5	The Three Kingdoms
+		6	The Three Kingdoms (San d'oria)
+		7	The Three Kingdoms (Bastok)
+		8	The Three Kingdoms (San d'oria)
+		9	The Three Kingdoms (Bastok)
+		10	To Each His Own Right
+		11	Written in the Stars
+		12	A New Journey
+		13	Magicite
+		14	The Final Seal
+		15	The Shadow Awaits
+		16	Full Moon Fountain
+		17	Saintly Invitation
+		18	The Sixth Ministry
+		19	Awakening of the Gods
+		20	Vain
+		21	The Jester who'd be King
+		22	Doll of the Dead
+		23	Moon Reading
+	
+	/////////////////////////////////////////////////////////
+	//  Zilart (3):                                        //
+	/////////////////////////////////////////////////////////
+	
+		0	The New Frontier
+		4	Welcome t'Norg
+		6	Kazham's Chieftainess
+		8	The Temple of Uggalepih
+		10	Headstone Pilgrimage
+		12	Through the Quicksand Caves
+		14	The Chamber of Oracles
+		16	Return to Delkfutt's Tower
+		18	Ro'Maeve
+		20	The Temple of Desolation
+		22	The Hall of the Gods
+		23	The Mithra and the Crystal
+		24	The Gate of the Gods
+		26	Ark Angels (or Divine Might[1])
+		27	The Sealed Shrine
+		28	The Celestial Nexus
+		30	Awakening
+		31	The Last Verse
+	
+	/////////////////////////////////////////////////////////
+	//  ToAU (4):                                          //
+	/////////////////////////////////////////////////////////
+	
+		0	Land of Sacred Serpents
+		1	Immortal Sentries
+		2	President Salaheem
+		3	Knight of Gold
+		4	Confessions of Royalty
+		5	Easterly Winds
+		6	Westerly Winds
+		7	A Mercenary Life
+		8	Undersea Scouting
+		9	Astral Waves
+		10	Imperial Schemes
+		11	Royal Puppeteer
+		12	Lost Kingdom
+		13	The Dolphin Crest
+		14	The Black Coffin
+		15	Ghosts of the Past
+		16	Guests of the Empire
+		17	Passing Glory
+		18	Sweets for the Soul
+		19	Teahouse Tumult
+		20	Finders Keepers
+		21	Shield of Diplomacy	
+		22	Social Graces
+		23	Foiled Ambition
+		24	Playing the Part
+		25	Seal of the Serpent
+		26	Misplaced Nobility
+		27	Bastion of Knowledge
+		28	Puppet in Peril
+		29	Prevalence of Pirates
+		30	Shades of Vengeance
+		31	In the Blood
+		32	Sentinels' Honor
+		33	Testing the Waters
+		34	Legacy of the Lost
+		35	Gaze of the Saboteur
+		36	Path of Blood
+		37	Stirrings of War
+		38	Allied Rumblings
+		39	Unraveling Reason
+		40	Light of Judgment
+		41	Path of Darkness
+		42	Fangs of the Lion
+		43	Nashmeira's Plea
+		44	Urhgan Mission 45
+		45	Imperial Coronation
+		46	The Empress Crowned
+		47	Eternal Mercenary
+		
+	/////////////////////////////////////////////////////////
+	//  WotG (5):                                          //
+	/////////////////////////////////////////////////////////
+	
+		0	Cavernous Maws
+		1	Back to the Beginning
+		2	Cait Sith	
+		3	The Queen of the Dance	
+		4	While the Cat is Away	
+		5	A Timeswept Butterfly	
+		6	Purple, The New Black
+		7	In the Name of the Father	
+		8	Dancers in Distress	
+		9	Daughter of a Knight	
+		10	A Spoonful of Sugar	
+		11	Affairs of State	
+		12	Borne by the Wind	
+		13	A Nation on the Brink
+		14	Crossroads of Time
+	
+	/////////////////////////////////////////////////////////
+	//  Promathia (6):                                     //
+	/////////////////////////////////////////////////////////
+	
+		0	Ancient Flames Beckon
+		1	The Rites of Life
+		2	Below the Arks
+		3	The Mothercrystals
+		5	An Invitation West
+		incomplete
+		
+	/////////////////////////////////////////////////////////
+	//  Assault (7):                                       //
+	/////////////////////////////////////////////////////////
+		
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Leujaoam Missions:                             ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+			1	Leujaoam Cleansing
+			2	Orichalcum Survey
+			3	Escort Professor Chanoix
+			4	Shanarha Grass Conservation	
+			5	Counting Sheep
+			6	Supplies Recovery
+			7	Azure Experiments
+			8	Imperial Code
+			9	Red Versus Blue
+			10	Bloody Rondo
+			
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Mamool Ja Missions:                            ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+			11	Imperial Agent Rescue
+			12	Preemptive Strike
+			13	Sagelord Elimination
+			14	Breaking Morale
+			15	The Double Agent
+			16	Imperial Treasure Retrieval
+			17	Blitzkrieg
+			18	Marids in the Mist
+			19	Azure Ailments
+			20	The Susanoo Shuffle
+	
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Libros Missions:                               ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+			21	Excavation Duty
+			22	Lebros Supplies	
+			23	Troll Fugitives
+			24	Evade and Escape
+			25	Siegemaster Assassination
+			26	Apkallu Breeding
+			27	Wamoura Farm Raid
+			28	Egg Conservation
+			29	Operation: Black Pearl
+			30	Better Than One
+	
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Periqia Missions:                              ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+			31	Seagull Grounded
+			32	Requiem
+			33	Saving Private Ryaaf
+			34	Shooting Down the Baron
+			35	Building Bridges
+			36	Stop the Bloodshed
+			37	Defuse the Threat
+			38	Operation: Snake Eyes
+			39	Wake the Puppet
+			40	The Price is Right
+	
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Ilrusi Missions:                               ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+			41	Golden Salvage
+			42	Lamia No.13
+			43	Extermination
+			44	Demolition Duty
+			45	Searat Salvation
+			46	Apkallu Seizure
+			47	Lost and Found
+			48	Deserter
+			49	Desperately Seeking Cephalopods
+			50	Bellerophon's Bliss
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Nyzul Isle Missions:                           ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		
+			51	Nyzul Isle Investigation
+	
+	/////////////////////////////////////////////////////////			
+	//  Campaign (8):                                      //
+	/////////////////////////////////////////////////////////
+	
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+		++  Sandy                                          ++
+		+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+			1	Smokescreen I (San d'Oria)
+			2	Smokescreen II (San d'Oria)
+			3	Smokescreen III (San d'Oria)
+			4	Smokescreen IV (San d'Oria)
+			5	Campaign Operation
+			6	Splitting Heirs
+			7	Campaign Operations
+			incomplete
+			
+	/////////////////////////////////////////////////////////			
+	//  A Crystalline Prophecy (10):                       //
+	/////////////////////////////////////////////////////////
+	
+		1	A Crystalline Prophecy
+		2	The Echo Awakens
+		4	Gatherer of Light (I)
+		4	Gatherer of Light (II)
+		5	Those Who Lurk in Shadows (I)
+		6	Those Who Lurk in Shadows (II)
+		7	Those Who Lurk in Shadows (III)
+		8	Remember Me in Your Dreams
+		9	Born of Her Nightmares
+		10	Banishing the Echo
+		11	Ode of Life Bestowing
+		12	A Crystalline Prophecy (Fin.)

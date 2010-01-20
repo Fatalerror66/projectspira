@@ -1,0 +1,10 @@
+getZOne()
+get the current zone
+
+rawName()
+get the NPC's name without spaces or characters
+
+Possibly make FFXImon know what packets were sent together... Shops, Guilds, Type 33 events, etc... This could even expand to certain types of things that have more than one packet like conquest, and other misc things non NPC related. 
+
+
+

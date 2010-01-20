@@ -1,0 +1,71 @@
+---------------------------------------------------------------
+Currently Unused Events
+---------------------------------------------------------------
+0002	Quest - Don't Forget the Antidote
+0003	Quest - Don't Forget the Antidote
+0004	Quest - Don't Forget the Antidote
+0005	Quest - Don't Forget the Antidote
+0006	Quest - The Missing Piece
+0007	Quest - The Missing Piece
+0008	Quest - The Missing Piece
+0009	Quest - The Missing Piece
+000A	Quest - The Missing Piece
+000B	Quest - The Missing Piece
+0038	Set Homepoint after job change
+0042	Quest - Trial by Wind
+0043	Quest - Trial by Wind
+0044	Quest - Trial by Wind
+0045	Quest - Trial by Wind
+004A	Quest - The Kuftal Tour
+004B	Quest - The Kuftal Tour
+004D	Quest - The Immortal Lu Shang
+004E	Quest - The Immortal Lu Shang
+0050	Chocobo Vender
+0051	RotZ Mission 12 - The Mithra and the Crystal
+0052	RotZ Mission 12 - The Mithra and the Crystal
+0053	RotZ Mission 12 - The Mithra and the Crystal
+0054	RotZ Mission 12 - The Mithra and the Crystal
+0055	RotZ Mission 12 - The Mithra and the Crystal
+0056	Tuning Fork Text
+0057	Tuning Fork Text
+0058	Tuning Fork Text
+005A	Quest - I'll Take the Big Box
+005B	Quest - I'll Take the Big Box
+005C	Quest - I'll Take the Big Box
+005D	Quest - I'll Take the Big Box
+005E	Quest - I'll Take the Big Box
+005F	Quest - I'll Take the Big Box
+0060	Quest - I'll Take the Big Box
+0061	Quest - I'll Take the Big Box
+0062	Quest - I'll Take the Big Box
+0063	Quest - I'll Take the Big Box
+0065	Event Replay
+0066	Bastok Mission 9-1 The Salt of the Earth
+0067	Bastok Mission 9-1 The Salt of the Earth
+0068	Bastok Mission 9-1 The Salt of the Earth
+0069	Bastok Mission 9-1 The Salt of the Earth
+006B	Tuning Fork Text
+006C	Quest - Trial Size Trial by Wind
+006D	Quest - Trial Size Trial by Wind
+006F	Quest - Trial Size Trial by Wind
+0070	Quest - Trial Size Trial by Wind
+0071	Quest - Trial Size Trial by Wind
+0074	Special Event - Goldfish Scooping
+0075	Quest - Chasing Dreams
+0076	Quest - Chasing Dreams
+0077	Quest - Chasing Dreams
+0078	Quest - Chasing Dreams
+0079	Quest - Chasing Dreams
+007A	Quest - Chasing Dreams
+007B	Quest - The Search for Goldmane
+007C	Quest - The Search for Goldmane
+007E	Quest - The Search for Goldmane
+0080	Quest - The Search for Goldmane
+0081	Quest - The Search for Goldmane
+0082	Quest - The Search for Goldmane
+0083	Quest - Indomitable Spirit
+0084	Quest - Indomitable Spirit
+0085	Quest - Indomitable Spirit
+0086	Quest - Indomitable Spirit
+0087	Quest - Indomitable Spirit
+03F3	Title Change

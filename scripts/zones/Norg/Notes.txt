@@ -1,0 +1,196 @@
+---------------------------------------------------------------
+NPCs with no events scripted
+---------------------------------------------------------------
+Agatsum - Auction House
+Atrevaux - Auction House
+Gofufu - Auction House
+Zoldba - Auction House
+Colleraie - Event Scene Replay
+Paleille - Item Delivery
+Spasija - Item Delivery
+NomadMoogle - Nomad Moogle
+NomadMoogle - Nomad Moogle
+NomadMoogle - Nomad Moogle
+Solby-Maholby - Standard Merchant
+Achika - Tenshodo Merchant
+Chiyo - Tenshodo Merchant
+Jirokichi - Tenshodo Merchant
+Vuliaie - Tenshodo Merchant
+Fouvia - Wyvern Name Change (Couldn't find standard CS)
+
+
+---------------------------------------------------------------
+NPCs with a Quest as the first event
+---------------------------------------------------------------
+The following have the first CS in a quest as there first event:
+Muzaffar - Quest: Black Market
+Home Point - Does not currently set the home point
+*Quests are not currently functioning beyond this CS
+
+
+---------------------------------------------------------------
+Currently Unused Events
+---------------------------------------------------------------
+0062	Bastok Mission 6-2
+0063	Bastok Mission 6-2
+0084	Chocobo - No License
+00be	Edal-Tahdal - Get another Tuning Fork
+0065	Fame Check
+0066	Fame Check
+0067	Fame Check
+0068	Fame Check
+0069	Fame Check
+006a	Fame Check
+006b	Fame Check
+006c	Fame Check
+00e8	RotZ Mission CS
+000d	RotZ Mission Text
+00b1	RotZ Mission Text
+00e9	RotZ Mission Text
+0061	Home Point Text - After changing jobs
+0002	Open the Door
+0003	Open the Door
+0005	Open the Door
+00a9	Open the Door
+00ac	Open the Door
+0085	Quest - 20 in Pirate Years
+0086	Quest - 20 in Pirate Years
+009e	Quest - A Theif in Norg!
+009f	Quest - A Theif in Norg!
+00a0	Quest - A Theif in Norg!
+00a1	Quest - A Theif in Norg!
+00a2	Quest - A Theif in Norg!
+00a3	Quest - A Theif in Norg!
+00a4	Quest - A Theif in Norg!
+00a5	Quest - A Theif in Norg!
+00a6	Quest - A Theif in Norg!
+00a7	Quest - A Theif in Norg!
+00a8	Quest - A Theif in Norg!
+00e1	Quest - An Undying Pledge
+00e2	Quest - An Undying Pledge
+00e3	Quest - An Undying Pledge
+00e4	Quest - An Undying Pledge
+00e5	Quest - An Undying Pledge
+00e6	Quest - An Undying Pledge
+005f	Quest - Ayame and Kaede
+0010	Quest - Black Market
+0011	Quest - Black Market
+0012	Quest - Black Market
+0013	Quest - Black Market
+0014	Quest - Black Market
+00b8	Quest - Bugi Soden
+00b9	Quest - Bugi Soden
+00ba	Quest - Bugi Soden
+00bb	Quest - Bugi Soden
+00bc	Quest - Bugi Soden
+00bd	Quest - Bugi Soden
+00d1	Quest - Chasing Dreams
+00d2	Quest - Chasing Dreams
+00d3	Quest - Chasing Dreams
+00d4	Quest - Chasing Dreams
+00d5	Quest - Chasing Dreams
+00d6	Quest - Chasing Dreams
+00d7	Quest - Chasing Dreams
+00d8	Quest - Chasing Dreams
+00d9	Quest - Chasing Dreams
+00da	Quest - Chasing Dreams
+00db	Quest - Chasing Dreams
+00dc	Quest - Chasing Dreams
+00dd	Quest - Chasing Dreams
+00de	Quest - Chasing Dreams
+00df	Quest - Chasing Dreams
+00e0	Quest - Chasing Dreams
+0074	Quest - Everyone's Grudge
+0075	Quest - Everyone's Grudge
+0076	Quest - Everyone's Grudge
+0077	Quest - Everyone's Grudge
+0019	Quest - Forge Your Destiny
+001a	Quest - Forge Your Destiny
+001b	Quest - Forge Your Destiny
+001c	Quest - Forge Your Destiny
+001d	Quest - Forge Your Destiny
+001e	Quest - Forge Your Destiny
+0028	Quest - Forge Your Destiny
+0029	Quest - Forge Your Destiny
+002a	Quest - Forge Your Destiny
+002b	Quest - Forge Your Destiny
+002c	Quest - Forge Your Destiny
+002d	Quest - Forge Your Destiny
+002e	Quest - Forge Your Destiny
+002f	Quest - Forge Your Destiny
+0030	Quest - Forge Your Destiny
+0031	Quest - Forge Your Destiny
+0032	Quest - Forge Your Destiny
+0087	Quest - I'll Take the Big Box
+0024	Quest - It's Not Your Vault
+0025	Quest - It's Not Your Vault
+0026	Quest - It's Not Your Vault
+0027	Quest - It's Not Your Vault
+007b	Quest - Like a Shining Subligar
+007c	Quest - Like a Shining Subligar
+007d	Quest - Like a Shining Subligar
+007f	Quest - Like Shining Leggings
+0080	Quest - Like Shining Leggings
+0081	Quest - Like Shining Leggings
+00bf	Quest - Mama Mia
+00c0	Quest - Mama Mia
+00c1	Quest - Mama Mia
+00c2	Quest - Mama Mia
+00c3	Quest - Mama Mia
+00c4	Quest - Mama Mia
+00c5	Quest - Mama Mia
+00c6	Quest - Mama Mia
+001f	Quest - Secret of the Damp Scroll
+0020	Quest - Secret of the Damp Scroll
+0015	Quest - Stop Your Whining
+0016	Quest - Stop Your Whining
+0017	Quest - Stop Your Whining
+0018	Quest - Stop Your Whining
+00b2	Quest - The Potential Within
+00b3	Quest - The Potential Within
+00b4	Quest - The Potential Within
+00b5	Quest - The Potential Within
+00b6	Quest - The Potential Within
+00b7	Quest - The Potential Within
+008b	Quest - The Sacred Katana
+008c	Quest - The Sacred Katana
+008d	Quest - The Sacred Katana
+008e	Quest - The Sacred Katana
+008f	Quest - The Sacred Katana
+0090	Quest - The Sacred Katana
+0091	Quest - The Sacred Katana
+0021	Quest - The Sahagin's Stash
+0022	Quest - The Sahagin's Stash
+0023	Quest - The Sahagin's Stash
+006d	Quest - Trial by Water
+006e	Quest - Trial by Water
+006f	Quest - Trial by Water
+0070	Quest - Trial by Water
+00c7	Quest - Trial Size Trial by Water
+00c8	Quest - Trial Size Trial by Water
+00cc	Quest - Trial Size Trial by Water
+0088	Quest - True Will
+0089	Quest - True Will
+008a	Quest - True Will
+00cf	Quest - Tuning Out
+00d0	Quest - Tuning Out
+0092	Quest - Yomi Okuri
+0093	Quest - Yomi Okuri
+0094	Quest - Yomi Okuri
+0095	Quest - Yomi Okuri
+0096	Quest - Yomi Okuri
+0097	Quest - Yomi Okuri
+0098	Quest - Yomi Okuri
+0099	Quest - Yomi Okuri
+009a	Quest - Yomi Okuri
+009b	Quest - Yomi Okuri
+009c	Quest - Yomi Okuri
+009d	Quest - Yomi Okuri
+00af	Replay Menu
+0001	RotZ Mission 1 - The New Frontier
+00b0	RotZ Mission 17 - Awakening
+0009	RotZ Mission 5 - Headstone Pilgrimage
+000c	RotZ Mission 5 - Headstone Pilgrimage
+0007	RotZ Mission 7 - Kazham's Chieftainess
+03F3	Title Change
+0082	Wyvern Name Change

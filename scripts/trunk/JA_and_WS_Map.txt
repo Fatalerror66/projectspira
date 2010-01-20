@@ -1,0 +1,857 @@
+PACKET 0xACs	Size: 0x58	ServCnt	??	??
+
+JOB ABILITIES / PET COMMANDS
+Pet Commands won't show up unless you have a pet of any type, even if they are set as on.
+
+0x06
+01	Mighty Strikes		WAR	01	main only
+02	Hundred Fists		MNK	01	main only
+04	Benediction			WHM	01	main only
+08	Manafont			BLM	01	main only
+10	Chainspell			RDM	01	main only
+20	Perfect Dodge		THF	01	main only
+40	Invincible			PLD	01	main only
+80	Bloodweapon			DRK	01	main only
+0x07
+01	Familiar			BST	01	main only
+02	Soul Voice			BRD	01	main only
+04	Eagle Eye Shot		RNG	01	main only
+08	Meikyo Shisui		SAM	01	main only
+10	Mijin Gakure		NIN	01	main only
+20	Spirit Surge		DRG	01	main only
+40	Astral Flow			SMN	01	main only
+80	Berserk				WAR	15
+0x08
+01	Warcry				WAR	35
+02	Defender			WAR	25
+04	Aggressor			WAR	45
+08	Provoke				WAR	05
+10	Focus				MNK	25
+20	Dodge				MNK	15
+40	Chakra				MNK	35
+80	Boost				MNK	05
+0x09
+01	Counterstance		MNK	45
+02	Steal				THF	05
+04	Flee				THF	25
+08	Hide				THF	45
+10	Sneak Attack		THF	15
+20	Mug					THF	35
+40	Shield Bash			PLD	15
+80	Holy Circle			PLD	05
+0x0a
+01	Sentinel			PLD	30
+02	Souleater			DRK	30
+04	Arcane Circle		DRK	05
+08	Last Resort			DRK	15
+10	Charm				BST	01
+20	Gauge				BST	10
+40	Tame				BST	30
+80	Pet Commands		BST	unused?
+0x0b
+01	Scavenge			RNG	10
+02	Shadowbind			RNG	40
+04	Camouflage			RNG	20
+08	Sharpshot			RNG	01
+10	Barrage				RNG	30
+20	Call Wyvern			DRG	01
+40	Third Eye			SAM	15
+80	Meditate			SAM	30
+0x0c
+01	Warding Circle		SAM	05
+02	Ancient Circle		DRG	05
+04	Jump				DRG	10
+08	High Jump			DRG	35
+10	Super Jump			DRG	50
+20	Fight				BST	01
+40	Heel				BST	10
+80	Leave				BST	35
+0x0d
+01	Sic					BST	25
+02	Stay				BST	15
+04	Divine Seal			WHM	15
+08	Elemental Seal		BLM	15
+10	Trick Attack		THF	30
+20	Weapon Bash			DRK	20
+40	Reward				BST	12
+80	Cover				PLD	35
+0x0e
+01	Spirit Link			DRG	25
+02	Enrage				unused
+04	Chi Blast			MNK	41
+08	Convert				RDM	40
+10	Accomplice			THF	65
+20	Call Beast			BST	23
+40	Unlimited Shot		RNG	51
+80	Dismiss				DRG	01
+0x0f
+01	Assault				SMN	01
+02	Retreat				SMN	01
+04	Release				SMN	01
+08	Blood Pact: Rage	SMN	01
+10	Rampart				PLD	62
+20	Azure Lore			BLU	01	main only
+40	Chain Affinity		BLU	25
+80	Burst Affinity		BLU	40
+0x10
+01	Wild Card			COR	01	main only
+02	Phantom Roll		COR	05
+04	Fighter's Roll		COR	49
+08	Monk's Roll			COR	31
+10	Healer's Roll		COR	20
+20	Wizard's Roll		COR	58
+40	Warlock's Roll		COR	46
+80	Rogue's Roll		COR	43
+0x11
+01	Gallant's Roll		COR	55
+02	Chaos Roll			COR	14
+04	Beast Roll			COR	34
+08	Choral Roll			COR	26
+10	Hunter's Roll		COR	11
+20	Samurai Roll		COR	37
+40	Ninja Roll			COR	08
+80	Drachen Roll		COR	52
+0x12
+01	Evoker's Roll		COR	40
+02	Magus's Roll		COR	17
+04	Corsair's Roll		COR	05
+08	Puppet Roll			COR	23
+10	Dancer's Roll		COR	61
+20	Scholar's Roll		COR	64
+40	DO NOT USE
+80	DO NOT USE
+0x13
+01	DO NOT USE
+02	DO NOT USE
+04	DO NOT USE
+08	Double-Up			COR	05
+10	Quick Draw			COR	40
+20	Fire Shot			COR	40
+40	Ice Shot			COR	40
+80	Wind Shot			COR	40
+0x14
+01	Earth Shot			COR	40
+02	Thunder Shot		COR	40
+04	Water Shot			COR	40
+08	Light Shot			COR	40
+10	Dark Shot			COR	40
+20	Random Deal			COR	50
+40	.
+80	Overdrive			PUP	01	main only
+0x15
+01	Activate			PUP	01
+02	Repair				PUP	15
+04	Deploy				PUP	01
+08	Deactivate			PUP	01
+10	Retrieve			PUP	10
+20	Fire Maneuver		PUP	01
+40	Ice Maneuver		PUP	01
+80	Wind Maneuver		PUP	01
+0x16
+01	Earth Maneuver		PUP	01
+02	Thunder Maneuver	PUP	01
+04	Water Maneuver		PUP	01
+08	Light Maneuver		PUP	01
+10	Dark Maneuver		PUP	01
+20	Warrior's Charge	WAR	merit
+40	Tomahawk			WAR	merit
+80	Mantra				MNK	merit
+0x17
+01	Formless Strikes	MNK	merit
+02	Martyr				WHM	merit
+04	Devotion			WHM	merit
+08	Assassin's Charge	THF	merit
+10	Feint				THF	merit
+20	Fealty				PLD	merit
+40	Chivalry			PLD	merit
+80	Dark Seal			DRK	merit
+0x18
+01	Diabolic Eye		DRK	merit
+02	Feral Howl			BST	merit
+04	Killer Instinct		BST	merit
+08	Nightingale			BRD	merit
+10	Troubadour			BRD	merit
+20	Stealth Shot		RNG	merit
+40	Flashy Shot			RNG	merit
+80	Shikikoyo			SAM	merit
+0x19
+01	Blade Bash			SAM	merit
+02	Deep Breathing		DRG	merit
+04	Angon				DRG	merit
+08	Sange				NIN	merit
+10	Blood Pact: Ward	SMN	01
+20	Hasso				SAM	25
+40	Seigan				SAM	35
+80	Convergence			BLU	merit
+0x1a
+01	Diffusion			BLU	merit
+02	Snake Eye			COR	merit
+04	Fold				COR	merit
+08	Role Reversal		PUP	merit
+10	Ventriloquy			PUP	merit
+20	Trance				DNC	01	main only
+40	Sambas				DNC	05
+80	Waltzes				DNC	15
+0x1b
+01	Drain Samba			DNC	05
+02	Drain Samba II		DNC	35
+04	Drain Samba III		DNC	65
+08	Aspir Samba			DNC	25
+10	Aspir Samba II		DNC	60
+20	Haste Samba			DNC	45
+40	Curing Waltz		DNC	15
+80	Curing Waltz II		DNC	30
+0x1c
+01	Curing Waltz III	DNC	50
+02	Curing Waltz IV		DNC	70
+04	Healing Waltz		DNC	35
+08	Divine Waltz		DNC	25
+10	Spectral Jig		DNC	25
+20	Chocobo Jig			DNC	55
+40	Jigs				DNC	25
+80	Steps				DNC	20
+0x1d
+01	Flourishes I		DNC	20
+02	Quickstep			DNC	20
+04	Box Step			DNC	30
+08	Stutter Step		DNC	40
+10	Animated Flourish	DNC	20
+20	Desperate Flourish	DNC	30
+40	Reverse Flourish	DNC	40
+80	Violent Flourish	DNC	45
+0x1e
+01	Building Flourish	DNC	50
+02	Wild Flourish		DNC	60
+04	Tabula Rasa			SCH	01	main only
+08	Light Arts			SCH	10
+10	Dark Arts			SCH	10
+20	Flourishes II		DNC	40
+40	Modus Veritas		SCH	65
+80	Penury				SCH	10
+0x1f
+01	Celerity			SCH	25
+02	Rapture				SCH	55
+04	Accession			SCH	40
+08	Parsimony			SCH	10
+10	Alacrity			SCH	25
+20	Ebullience			SCH	55
+40	Manifestation		SCH	40
+80	Strategems			SCH	10
+0x20
+01	Velocity Shot		RNG	45
+02	Snarl				BST	45
+04	Retaliation			WAR	60
+08	Footwork			MNK	65
+10	.
+20	Pianissimo			BRD	45
+40	Sekkanoki			SAM	60
+80	.
+0x21
+01	Elemental Siphon	SMN	50
+02	Sublimation			SCH	35
+04	Addendum: White		SCH	10
+08	Addendum: Black		SCH	30
+10	Collaborator		THF	65
+20	Saber Dance			DNC	merit
+40	Fan Dance			DNC	merit
+80	No Foot Rise		DNC	merit
+0x22
+01	Altruism			SCH	merit
+02	Focalization		SCH	merit
+04	Tranquility			SCH	merit
+08	Equanimity			SCH	merit
+10	Enlightenment		SCH	merit
+20	Afflatus Solace		WHM	40
+40	Afflatus Misery		WHM	40
+80	Composure			RDM	50
+0x23
+01	Yonin				NIN	40
+02	Innin				NIN	40
+10	.
+20	.
+40	.
+80	.
+[bytes 0x24 to 0x33 are blank spaces for more Job Abilities]
+
+
+JOB TRAITS
+0x34
+01	.
+02	Accuracy Bonus		RNG10,DNC30,DRG30 (+10)		RNG30,DRG50,DNC60 (+22)		RNG50 (+35)					RNG70 (+48)
+04	Evasion Bonus		THF10,DNC15,PUP20 (+10)		THF30,PUP40,DNC45 (+22)		THF50,PUP60,DNC75 (+35)		THF70 (+48)
+08	Attack Bonus		WAR30,DRK10,DRG10 (+10)		DRK30 (+22)					DRK50 (+35)					DRK70 (+48)
+10	Defense Bonus		WAR10,PLD10 (+10)			PLD30 (+22)					PLD50 (+35)					PLD70 (+48)
+20	Magic Atk. Bonus	BLM10,RDM20 (+20)			BLM30,RDM40 (+24)			BLM50 (+28)					BLM70 (+32)
+40	Magic Def. Bonus	WHM10,RDM25 (+10)			WHM30,RDM45 (+12)			WHM50 (+14)					WHM70 (+16)
+80	Max HP Boost		MNK15 (+30)					MNK35 (+60)					MNK55 (+120)				MNK70 (+180)
+0x35
+01	Max MP Boost		SMN10,SCH30 (+10)			SMN30 (+20)					SMN50 (+30)					SMN70 (+40)
+02	Auto Regen			WHM25 (+1/3sec)
+04	Auto Refresh		SMN25,PLD35 (+1/3sec)
+08	Rapid Shot			RNG15,COR15
+10	Fast Cast			RDM15 (-10%/-5%)			RDM35 (-15%/-7.5%)			RDM55 (-20%/-10%)
+20	Conserve MP			BLM20,SCH25 (25%)
+40	Store TP			SAM10 (+10%)				SAM30 (+15%)				SAM50 (+20%)				SAM70 (+25%)
+80	Double Attack		WAR25 (+10%)
+0x36
+01	Triple Attack		THF55 (+5%)
+02	Counter				MNK10 (+10%)
+04	Dual Wield			NIN10 (-10%)				NIN25 (-15%)				NIN45 (-25%)				NIN65 (-30%)
+08	Treasure Hunter		THF15
+10	Gilfinder			THF05 (+50%)
+20	Alertness			RNG05
+40	Stealth				NIN05
+80	Martial Arts		MNK01,PUP25 (-80)			MNK16,PUP50 (-100)			MNK31,PUP75 (-120)			MNK46 (-140)	MNK61 (-160)	MNK75 (-180)
+0x37
+01	Clear Mind			SMN15,BLM15,SCH20,WHM20,RDM31(+3/+0)
+						SMN30,BLM30,SCH35,WHM35,RDM53(+6/+0)
+						SMN45,BLM45,SCH50,WHM50,RDM75(+9/+1) 
+						SMN60,BLM60,SCH65,WHM65 (+12/+1)
+						SMN70,BLM75 (+15/+3)
+02	Shield Mastery		PLD25 (+2)					PLD50 (+4)					PLD75 (+6)
+04	.
+08	.
+10	.
+20	.
+40	.
+80	.
+0x38
+01	Beast Killer		BST70
+02	Plantoid Killer		BST60
+04	Vermin Killer		BST10
+08	Lizard Killer		BST40
+10	Bird Killer			BST20
+20	Amorph Killer		BST30
+40	Aquan Killer		BST50
+80	Undead Killer		PLD05
+0x39
+01	.
+02	Arcana Killer		DRK25
+04	Demon Killer		SAM40
+08	Dragon Killer		DRG25
+10	.
+20	.
+40	.
+80	.
+0x3a
+01	Resist Sleep		PLD20						PLD40						PLD60
+02	Resist Poison		RNG20						RNG40						RNG60
+04	Resist Paralyze		COR05,DRK20					COR25,DRK40					COR45,DRK60					COR65,DRK75
+08	Resist Blind		SAM05						SAM25						SAM45						SAM65
+10	Resist Silence		BRD05,SCH10					BRD25,SCH40					BRD45,SCH70					BRD65
+20	Resist Petrify		RDM10						RDM30						RDM50						RDM70
+40	Resist Virus		WAR15						WAR35						WAR55						WAR70
+80	Resist Curse		unused?
+0x3b
+01	Resist Stun			unused?
+02	Resist Bind			NIN10						NIN30						NIN50						NIN70
+04	Resist Gravity		THF20						THF40						THF60
+08	Resist Slow			PUP10,BST15,DNC20,SMN20		BST35,SMN40,PUP50			BST55,SMN55,PUP70			BST75,SMN75
+10	Resist Charm		unused?
+20	.
+40	.
+80	.
+0x3c
+01	Treasure Hunter II	THF45
+02	Gilfinder II		unused?
+04	Kick Attacks		MNK51 (+5%)					MNK71 (+10%)
+08	Subtle Blow			MNK05,NIN15,DNC25 (-5%)		MNK25,NIN30,DNC45 (-10%)	MNK45,NIN45,DNC65 (-15%)	MNK65,NIN60 (-20%)		NIN75 (-25%)
+10	Assassin			THF60
+20	Divine Veil			WHM50
+40	Zanshin				SAM20
+80	Savagery			WAR merit
+0x3d
+01	Aggressive Aim		WAR merit
+02	Invigorate			MNK merit
+04	Penance				MNK merit
+08	Aura Steal			THF merit
+10	Ambush				THF merit
+20	Iron Will			PLD merit
+40	Guardian			PLD merit
+80	Muted Soul			DRK merit
+0x3e
+01	Desperate Blows		DRK merit
+02	Beast Affinity		BST merit
+04	Beast Healer		BST merit
+08	Snapshot			RNG merit
+10	Recycle				RNG merit
+20	Ikishoten			SAM merit
+40	Overwhelm			SAM merit
+80	Ninja Tool Expert.	NIN merit
+0x3f
+01	Empathy				DRG merit
+02	Strafe				DRG merit
+04	Enchainment			BLU merit
+08	Assimilation		BLU merit
+10	Winning Streak		COR merit
+20	Loaded Deck			COR merit
+40	Fine-Tuning			PUP merit
+80	Optimization		PUP merit
+0x40
+01	Closed Position		DNC merit
+02	Stormsurge			SCH merit
+04	.
+08	.
+10	.
+20	.
+40	.
+80	.
+[bytes 0x41 to 0x43 are blank spaces for more Job Abilities]
+
+
+BLOOD PACTS: Need to have a pet, and have the Blood Pact pet commands set to on to get these.
+
+Carbuncle
+0x44
+01	Healing Ruby		01
+02	Poison Nails		05
+04	Shining Ruby		24
+08	Glittering Ruby		44
+10	Meteorite			55
+20	Healing Ruby II		65
+40	Searing Light		Astral Flow
+80	.
+[0x45 is all blank Blood Pact Rages]
+
+[For the other avatars, their second byte only contains their 2hr, plus 7 blank Blood Pact Rages.]
+Fenrir
+0x46
+01	Moonlit Charge		05
+02	Crescent Fang		10
+04	Lunar Cry			21
+08	Lunar Roar			32
+10	Ecliptic Growl		43
+20	Ecliptic Howl		54
+40	Eclipse Bite		65
+80	.
+0x47
+01	Howling Moon		Astral Flow
+
+Ifrit
+0x48
+01	Punch				01
+02	Fire II				10
+04	Burning Strike		23
+08	Double Punch		30
+10	Crimson Howl		38
+20	Fire IV				60
+40	Flaming Crush		70
+80	Meteor Strike		merit
+0x49
+01	Inferno				Astral Flow
+
+Titan
+0x4a
+01	Rock Throw			01
+02	Stone II			10
+04	Rock Buster			21
+08	Megalith Throw		35
+10	Earthen Ward		46
+20	Stone IV			60
+40	Mountain Buster		70
+80	Geocrush			merit
+0x4b
+01	Earthen Fury		Astral Flow
+
+Leviathan
+0x4c
+01	Barracuda Dive		01
+02	Water II			10
+04	Tail Whip			26
+08	Spring Water		47
+10	Slowga				33
+20	Water IV			60
+40	Spinning Dive		70
+80	Grand Fall			merit
+0x4d
+01	Tidal Wave			Astral Flow
+
+Garuda
+0x4e
+01	Claw				01
+02	Aero II				10
+04	Whispering Wind		36
+08	Hastega				48
+10	Aerial Armor		25
+20	Aero IV				60
+40	Predator Claws		70
+80	Wind Blade			merit
+0x4f
+01	Aerial Blast		Astral Flow
+
+Shiva
+0x50
+01	Axe Kick			01
+02	Blizzard II			10
+04	Frost Armor			28
+08	Sleepga				39
+10	Double Slap			50
+20	Blizzard IV			60
+40	Rush				70
+80	Heavenly Strike		merit
+0x51
+01	Diamond Dust		Astral Flow
+
+Ramuh
+0x52
+01	Shock Strike		01
+02	Thunder II			10
+04	Rolling Thunder		31
+08	Thunderspark		19
+10	Lightning Armor		42
+20	Thunder IV			60
+40	Chaotic Strike		70
+80	Thunderstorm		merit
+0x53
+01	Judgement Bolt		Astral Flow
+
+Wyvern???  These are all Blood Pact Rages...
+0x54
+01	Healing Breath
+02	Healing Breath II
+04	Healing Breath III
+08	Remove Poison
+10	Remove Blindness
+20	Remove Paralysis
+40	Flame Breath
+80	Frost Breath
+0x55
+01	Gust Breath
+02	Sand Breath
+04	Lightning Breath
+08	Hydro Breath
+10	Super Climb
+20	.
+40	.
+80	.
+
+Diabolos
+0x56
+01	Camisado			01
+02	Somnolence			20
+04	Nightmare			29
+08	Ultimate Terror		37
+10	Noctoshield			49
+20	Dream Shroud		56
+40	Netherblast			65
+80	Cacodemonia			unused?
+0x57
+01	Ruinous Omen		Astral Flow
+
+[bytes 0x58 to 0x63 are all blank light-element Blood Pact Rages]
+
+
+WEAPON SKILLS
+
+Hand-to-Hand
+0x64
+01	.
+02	Combo				5
+04	Shoulder Tackle		40
+08	One Inch Punch		75
+10	Backhand Blow		100
+20	Raging Fists		125
+40	Spinning Attack		150
+80	Howling Fist		200
+0x65
+01	Dragon Kick			225
+02	Asuran Fists		quest
+04	Final Heaven		relic
+08	Ascetic's Fury		mythic
+10	Stringing Pummel	mythic
+20	.
+40	.
+80	.
+
+Dagger
+0x66
+01	Wasp Sting			5
+02	Viper Bite			40
+04	Shadowstitch		70
+08	Gust Slash			100
+10	Cyclone				125
+20	Energy Steal		150
+40	Energy Drain		175
+80	Dancing Edge		200
+0x67
+01	Shark Bite			225
+02	Evisceration		quest
+04	Mercy Stroke		relic
+08	Mandalic Stab		mythic
+10	Mordent Rime		mythic
+20	Pyrrhic Kleos		mythic
+40	.
+80	.
+
+Sword
+0x68
+01	Fast Blade			5
+02	Burning Blade		30
+04	Red Lotus Blade		50
+08	Flat Blade			75
+10	Shining Blade		100
+20	Seraph Blade		125
+40	Circle Blade		150
+80	Spirits Within		175
+0x69
+01	Vorpal Blade		200
+02	Swift Blade			225
+04	Savage Blade		quest
+08	Knights of Round	relic
+10	Death Blossom		mythic
+20	Atonement			mythic
+40	Expiacion			mythic
+80	.
+
+Great Sword
+0x6a
+01	Hard Slash			5
+02	Power Slash			30
+04	Frostbite			70
+08	Freezebite			100
+10	Shockwave			150
+20	Crescent Moon		175
+40	Sickle Moon			200
+80	Spinning Slash		225
+0x6b
+01	Ground Strike		quest
+02	Scourge				relic
+04	.
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Axe
+0x6c
+01	Raging Axe			5
+02	Smash Axe			40
+04	Gale Axe			70
+08	Avalanche Axe		100
+10	Spinning Axe		150
+20	Rampage				175
+40	Calamity			200
+80	Mistral Axe			225
+0x6d
+01	Decimation			quest
+02	Onslaught			relic
+04	Primal Rend			mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Great Axe
+0x6e
+01	Shield Break		5
+02	Iron Tempest		40
+04	Sturmwind			70
+08	Armor Break			100
+10	Keen Edge			150
+20	Weapon Break		175
+40	Raging Rush			200
+80	Full Break			225
+0x6f
+01	Steel Cyclone		quest
+02	Metatron Torment	relic
+04	King's Justice		mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Scythe
+0x70
+01	Slice				5
+02	Dark Harvest		30
+04	Shadow of Death		70
+08	Nightmare Scythe	100
+10	Spinning Scythe		125
+20	Vorpal Scythe		150
+40	Guillotine			200
+80	Cross Reaper		225
+0x71
+01	Spiral Hell			quest
+02	Catastrophe			relic
+04	Insurgency			mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Polearm
+0x72
+01	Double Thrust		5
+02	Thunder Thrust		30
+04	Raiden Thrust		70
+08	Leg Sweep			100
+10	Penta Thrust		150
+20	Vorpal Thrust		175
+40	Skewer				200
+80	Wheeling Thrust		225
+0x73
+01	Impulse Drive		quest
+02	Geirskogul			relic
+04	Drakesbane			mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Katana
+0x74
+01	Rin					5
+02	Retsu				30
+04	Teki				70
+08	To					100
+10	Chi					150
+20	Ei					175
+40	Jin					200
+80	Ten					225
+0x75
+01	Ku					quest
+02	Metsu				relic
+04	Kamu				mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Great Katana
+0x76
+01	Enpi				5
+02	Hobaku				30
+04	Goten				70
+08	Kagero				100
+10	Jinpu				150
+20	Koki				175
+40	Yukikaze			200
+80	Gekko				225
+0x77
+01	Kasha				quest
+02	Kaiten				relic
+04	Rana				mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Club
+0x78
+01	Shining Strike		5
+02	Seraph Strike		40
+04	Brainshaker			70
+08	Starlight			100
+10	Moonlight			125
+20	Skullbreaker		150
+40	True Strike			175
+80	Judgment			200
+0x79
+01	Hexa Strike			220
+02	Black Halo			quest
+04	Randgrith			relic
+08	Mystic Boon			mythic
+10	.
+20	.
+40	.
+80	.
+
+Staff
+0x7a
+01	Heavy Swing			5
+02	Rock Crusher		40
+04	Earth Crusher		70
+08	Starburst			100
+10	Sunburst			150
+20	Shell Crusher		175
+40	Full Swing			200
+80	Spirit Taker		215
+0x7b
+01	Retribution			quest
+02	Gate of Tartarus	relic
+04	Vidohunir			mythic
+08	Garland of Bliss	mythic
+10	Omniscience			mythic
+20	.
+40	.
+80	.
+
+Bow
+0x7c
+01	Flaming Arrow		5
+02	Piercing Arrow		40
+04	Dulling Arrow		80
+08	.
+10	Sidewinder			175
+20	Blast Arrow			200
+40	Arching Arrow		225
+80	Empyreal Arrow		quest
+0x7d
+01	Namas Arrow			relic
+02	.
+04	.
+08	.
+10	.
+20	.
+40	.
+80	.
+
+Gun
+0x7e
+01	Hot Shot			5
+02	Split Shot			40
+04	Sniper Shot			80
+08	.
+10	Slug Shot			175
+20	Blast Shot			200
+40	Heavy Shot			225
+80	Detonator			quest
+0x7f
+01	Coronach			relic
+02	Trueflight			mythic
+04	Leaden Salute		mythic
+08	.
+10	.
+20	.
+40	.
+80	.
+
+[bytes 0x80 and 0x81 are blank Weapon Skills]
+
+Fomor
+0x82
+01	.
+02	Netherspikes
+04	Carnal Nightmare
+08	Aegis Schism
+10	Dancing Chains
+20	Barbed Crescent
+40	Shackled Fists
+80	Foxfire
+0x83
+01	Grim Halo
+02	Netherspikes
+04	Carnal Nightmare
+08	Aegis Schism
+10	Dancing Chains
+20	Barbed Crescent
+40	Vulcan Shot
+80	Dimensional Death
+
+[bytes 0x84 and on are still unknown]
+0x
+01	
+02	
+04	
+08	
+10	
+20	
+40	
+80	

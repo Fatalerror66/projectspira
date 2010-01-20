@@ -1,0 +1,92 @@
+---------------------------------------------------------------
+NPCs with no events scripted
+---------------------------------------------------------------
+Momoroon - Auction House
+Pupuroon - Auction House
+Neneroon - Delivery Service
+Nanaroon - Delivery Service
+Namad Moogle - x2
+Mamaroon - Standard Merchant
+Tsutsuroon - Tenshodo Merchant
+Mimiroon - Couldn't find the CS
+Homepoint - Event is scripted but homepoint is not set upon use
+
+
+---------------------------------------------------------------
+NPCs with a Quest as the first event
+---------------------------------------------------------------
+The following have the first CS in a quest as there first event:
+Ququroon - Quest: Cook-a-roon?
+Kakkaroon - Quest: Rat Race
+Totoroon - Quest: Totoroon's Treasure Hunt
+*Quests are not currently functioning beyond this CS
+
+
+---------------------------------------------------------------
+Currently Unused Events
+---------------------------------------------------------------
+0010	Quest - What are friends for
+0011	Quest - What are friends for
+0012	Quest - What are friends for
+0013	Quest - What are friends for
+0014	Quest - What are friends for
+0015	Quest - What are friends for
+0017	Einherjar Text
+0018	Einherjar Text
+0019	Einherjar Text
+001B	Quest - Duties, Tasks, and Deeds
+001C	Quest - Duties, Tasks, and Deeds
+001D	Quest - Duties, Tasks, and Deeds
+001E	Quest - Duties, Tasks, and Deeds
+001F	Quest - Duties, Tasks, and Deeds
+0020	Quest - Duties, Tasks, and Deeds
+0021	Quest - Duties, Tasks, and Deeds
+0022	Quest - Duties, Tasks, and Deeds
+0023	Assault Memoires Quest Warning
+0024	Menu - Assault Memoires
+00F2	Quest - Cook-A-Roon?
+00F3	Quest - Cook-A-Roon?
+00F4	Quest - Cook-A-Roon?
+00F5	Quest - The Die is Cast
+00F6	Quest - Totoroon's Treasure Hunt
+00F7	Quest - Totoroon's Treasure Hunt
+00F8	Quest - Totoroon's Treasure Hunt
+00F9	Quest - Totoroon's Treasure Hunt
+00FA	Quest - Totoroon's Treasure Hunt
+00FB	Quest - Totoroon's Treasure Hunt
+00FC	Quest - Totoroon's Treasure Hunt
+0111	Appraisal Text
+0114	Pyopyoroon - Alt Text
+0115	ToAU Mission 12 - Royal Puppeteer
+0116	ToAU Mission 12 - Royal Puppeteer
+0117	ToAU Mission 12 - Royal Puppeteer
+0118	ToAU Mission 13 - Lost Kingdom
+0119	ToAU Mission 16 - Ghosts of the Past
+0121	Quest - The Wayward Automaton
+0122	Quest - Operation Teatime
+0123	Quest - Operation Teatime
+0124	Quest - Navigating the Unfriendly Seas
+0125	Quest - Not Meant to Be
+0126	Quest - Not Meant to Be
+0127	Quest - Not Meant to Be
+0128	Quest - Not Meant to Be
+0129	Quest - Not Meant to Be
+012A	Quest - Not Meant to Be
+012C	Assault Mission
+012D	Assault Mission
+012E	Assault Mission
+012F	Quest - Promotion: Sergeant
+0130	Quest - Promotion: Sergeant
+0131	Quest - Led Astray
+0133	Venture Roll
+0134	Quest - Rat Race
+0135	Quest - Rat Race
+0136	Quest - Rat Race
+0137	Quest - Rat Race
+0138	Quest - Rat Race
+0139	Quest - Rat Race
+013A	Quest - Rat Race
+013B	Quest - Rat Race
+013C	Quest - Rat Race
+013D	Quest - Rat Race
+

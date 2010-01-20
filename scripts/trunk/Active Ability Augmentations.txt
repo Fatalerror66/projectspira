@@ -1,0 +1,108 @@
+Please list the items you are currently checking for when using scripts.
+These items need their AddEffect value removed from the equipment tables,
+so we need to track when they have been added to scripts.
+
+----------------------------
+HELM
+----------------------------
+field hose		Done
+worker hose		Done
+field boots		Done
+worker boots		Done
+field gloves		Done
+worker gloves		Done
+field tunica		Done
+worker tunica		Done
+
+----------------------------
+Scavenge
+----------------------------
+hunter's socks +1	Done
+hunter's socks		Done
+
+----------------------------
+Meditate
+----------------------------
+myochin kabuto    Done
+myochin kabuto +1 Done
+saotome kote      Done
+saotome kote +1   Done
+
+----------------------------
+Sublimation
+----------------------------
+Argute Gown              DONE
+Argute Gown +1           DONE
+Scholar's Mortarboard    DONE
+Scholar's Mortarboard +1 DONE
+
+----------------------------
+Flee
+----------------------------
+Rogue's Poulaines    DONE
+Rogue's Poulaines +1 DONE
+
+----------------------------
+Boost / Chi Blast
+----------------------------
+Temple Gloves    DONE
+Temple Gloves +1 DONE
+
+----------------------------
+Chakra
+----------------------------
+Temple Cyclas    DONE
+Temple Cyclas +1 DONE
+Melee Gloves     DONE
+Melee Gloves +1  DONE
+
+----------------------------
+Chocobo Jig
+----------------------------
+Dancer's Toe Shoes    DONE
+Dancer's Toe Shoes +1 DONE
+
+----------------------------
+Convert
+----------------------------
+Murgleis DONE
+
+----------------------------
+Dodge
+----------------------------
+Temple Gaiters    DONE
+Temple Gaiters +1 DONE
+
+----------------------------
+Focus
+----------------------------
+Temple Crown    DONE
+Temple Crown +1 DONE
+
+----------------------------
+Mug
+----------------------------
+Assassin's Bonnet    DONE
+Assassin's Bonnet +1 DONE
+
+----------------------------
+Rampart
+----------------------------
+Valor Coronet    DONE
+Valor Coronet +1 DONE
+
+----------------------------
+Shield Bash
+----------------------------
+Aegis              DONE
+Highlander's Targe DONE
+Valor Gauntlets    DONE
+Valor Gauntlets +1 DONE
+Fenian Ring        DONE
+Guardian's Ring    DONE
+Knightly Earring   DONE
+
+----------------------------
+Weapon Bash
+----------------------------
+Knightly Earring DONE

@@ -1,0 +1,249 @@
+Please [tab] zones which are complete! (1/8/2010)
+
+Note that "Old" just means it is older than the last retail update; they may still be up to date if SE did not alter the zone's NPCs.
+
+Incomplete		Old			Complete (newer than last retail update)
+
+							# 01 Phanauet Channel
+							# 02 Carpenters' Landing
+							# 03 Manaclipper
+							# 04 Bibiki Bay
+				# 05 Uleguerand Range
+# 06 Bearclaw Pinnacle
+# 07 Attohwa Chasm
+# 08 Boneyard Gully
+# 09 Pso'Xja
+# 0A The Shrouded Maw
+# 0B Oldton Movalpolos
+# 0C Newton Movalpolos
+# 0D MineShaft #2716
+				# 0E Hall of Transference
+# 10 Promyvion Holla
+# 11 Spire of Holla
+# 12 Promyvion Dem
+# 13 Spire of Dem
+# 14 Promyvion Mea
+# 15 Spire of Mea
+# 16 Promyvion Vahzl
+# 17 Spire of Vahzl
+# 18 Lufaise Meadows
+				# 19 Misareaux Coast
+				# 1A Tavnazian Safehold
+# 1B Phomiuna Aqueducts
+				# 1C Sacrarium
+				# 1D Riverne Site #B01
+				# 1E Riverne Site #A01
+# 1F Monarch Linn
+# 20 Sealion's Den
+				# 21 Al'Taieu
+# 22 Grand Palace of Hu'Xzoi
+# 23 The Garden of Ru'Hmet
+# 24 Empyreal Paradox
+# 25 Temenos
+# 26 Apollyon
+				# 27 Dynamis Valkurm
+# 28 Dynamis Buburimu
+# 29 Dynamis Qufim
+# 2A Dynamis Tavnazia
+# 2B Diorama Abdhaljs Ghelsba
+# 2C Abdhaljs Isle Purgonorgo
+							# 2E Open sea route to Al Zahbi
+							# 2F Open sea route to Mhaura
+				# 30 Al Zahbi
+							# 32 Aht Urhgan Whitegate
+				# 33 Wajaom Woodlands
+				# 34 Bhaflau Thickets
+							# 35 Nashmau
+# 36 Arrapago Reef
+# 37 Ilrusi Atoll
+# 38 Periqia
+# 39 Talacca Cove
+							# 3A Silver Sea route to Nashmau
+							# 3B Silver Sea route to Al Zahbi
+# 3C The Ashu Talif
+# 3D Mount Zhayolm
+# 3E Halvung
+# 3F Lebros Cavern
+# 40 Navukgo Execution Chamber
+# 41 Mamook
+# 42 Mamool Ja Training Grounds
+# 43 Jade Sepulcher
+# 44 Aydeewa Subterrane
+# 45 Leujaoam Sanctum
+# 46 Chocobo Circuit
+# 47 The Colosseum
+# 48 Alzadaal Undersea Ruins
+# 49 Zhayolm Remnants
+# 4A Arrapago Remnants
+# 4B Bhaflau Remnants
+# 4C Silver Sea Remnants
+				# 4D Nyzul Isle
+# 4E Hazhalm Testing Grounds
+# 4F Caedarva Mire
+# 50 Southern San d'Oria [S]
+# 51 East Ronfaure [S]
+# 52 Jugner Forest [S]
+# 53 Vunkerl Inlet [S]
+# 54 Batallia Downs [S]
+# 55 La Vaule [S]
+# 56 Everbloom Hollow
+# 57 Bastok Markets [S]
+# 58 North Gustaberg [S]
+# 59 Grauberg [S]
+# 5A Pashhow Marshlands [S]
+# 5B Rolanberry Fields [S]
+# 5C Beadeaux [S]
+# 5D Ruhotz Silvermines
+				# 5E Windurst Waters [S]
+				# 5F West Sarutabaruta [S]
+				# 60 Fort Karugo-Narugo [S]
+# 61 Meriphataud Mountains [S]
+# 62 Sauromugue Champaign [S]
+# 63 Oztroja Castle [S]
+							# 64 West Ronfaure
+				# 65 East Ronfaure
+							# 66 La Theine Plateau
+							# 67 Valkurm Dunes
+				# 68 Jugner Forest
+				# 69 Batallia Downs
+				# 6A North Gustaberg
+				# 6B South Gustaberg
+				# 6C Konschtat Highlands
+				# 6D Pashhow Marshlands
+				# 6E Rolanberry Fields
+				# 6F Beaucedine Glacier
+				# 70 Xarcabard
+				# 71 Cape Teriggan
+				# 72 Eastern Altepa Desert
+				# 73 West Sarutabaruta
+				# 74 East Sarutabaruta
+				# 75 Tahrongi Canyon
+							# 76 Buburimu Peninsula
+				# 77 Meriphataud Mountains
+				# 78 Sauromugue Champaign
+				# 79 The Sanctuary of Zi'Tah
+				# 7A Ro'Maeve
+# 7B Yuhtunga Jungle
+				# 7C Yhoator Jungle
+				# 7D Western Altepa Desert
+				# 7E Qufim Island
+# 7F Behemoth's Dominion
+				# 80 Valley of Sorrows
+# 81 Ghoyu's Reverie
+				# 82 Ru'Aun Gardens
+# 86 Dynamis Beaucedine
+# 87 Dynamis Xarcabard
+# 88 Beaucedine Glacier [S]
+# 89 Xarcabard [S]
+# 8A Castle Zvahl Baileys [S]
+				# 8B Horlais Peak
+				# 8C Ghelsba Outpost
+				# 8D Fort Ghelsba
+				# 8E Yughott Grotto
+				# 8F Palborough Mines
+# 90 Waughroon Shrine
+				# 91 Giddeus
+# 92 Balga's Dais
+# 93 Beadeaux
+# 94 Qulun Dome
+# 95 Davoi
+# 96 Monastic Cavern
+# 97 Castle Oztroja
+# 98 Altar Room
+				# 99 The Boyahda Tree
+# 9A Dragon's Aery
+# 9B Castle Zvahl Keep [S]
+# 9C Throne Room [S]
+				# 9D Middle Delkfutt's Tower
+				# 9E Upper Delkfutt's Tower
+# 9F Temple of Uggalepih
+# A0 Den of Rancor
+# A1 Castle Zvahl Baileys
+# A2 Castle Zvahl Keep
+# A3 Sacrificial Chamber
+# A4 Garlaige Citadel [S]
+# A5 Throne Room
+# A6 Ranguemont Pass
+				# A7 Bostaunieux Oubliette
+# A8 Chamber of Oracles
+				# A9 Toraimarai Canal
+				# AA Full Moon Fountain
+# AB Crawlers' Nest [S]
+				# AC Zeruhn Mines
+				# AD Korroloka Tunnel
+				# AE Kuftal Tunnel
+# AF The Eldieme Necropolis [S]
+# B0 Sea Serpent Grotto
+				# B1 Ve'Lugannon Palace
+				# B2 The Shrine of Ru'Avitau
+				# B3 Stellar Fulcrum
+# B4 La'Loff Amphitheater
+# B5 The Celestial Nexus
+# B6 Walk of Echos
+# B7 The Last Stand
+				# B8 Lower Delkfutt's Tower
+# B9 Dynamis - San d'Oria
+# BA Dynamis - Bastok
+# BB Dynamis - Windurst
+# BC Dynamis - Jeuno
+				# BE King Ranperre's Tomb
+				# BF Dangruf Wadi
+				# C0 Inner Horutoto Ruins
+# C1 Ordelle's Caves
+				# C2 Outer Horutoto Ruins
+# C3 The Eldieme Necropolis
+				# C4 Gusgen Mines
+# C5 Crawlers' Nest
+				# C6 Maze of Shakhrami
+# C8 Garlaige Citadel
+				# C9 Cloister of Gales
+				# CA Cloister of Storms
+				# CB Cloister of Frost
+				# CC Fei'Yin
+# CD Ifrit's Cauldron
+				# CE Qu'Bia Arena
+				# CF Cloister of Flames
+				# D0 Quicksand Caves
+				# D1 Cloister of Tremors
+# D3 Cloister of Tides
+# D4 Gustav Tunnel
+				# D5 Labyrinth of Onzozo
+# D6 Al Zahbi Residential Area
+# D7 Jeuno Residential Area
+# D8 San d'Oria Residential Area
+# D9 Bastok Residential Area
+# DA Windurst Residential Area
+# DC Ship bound for Selbina
+# DD Ship bound for Mhaura
+				# DF San d'Oria Jeuno Airship
+				# E0 Bastok Jeuno Airship
+# E1 Windurst Jeuno Airship
+# E2 Kazham Jeuno Airship
+# E3 Ship bound for Selbina
+# E4 Ship bound for Mhaura
+				# E6 Southern San d'Oria
+				# E7 Northern San d'Oria
+				# E8 Port San d'Oria
+				# E9 Chateau d'Oraguille
+				# EA Bastok Mines
+				# EB Bastok Markets
+				# EC Port Bastok
+				# ED Metalworks
+				# EE Windurst Waters
+				# EF Windurst Walls
+				# F0 Port Windurst
+				# F1 Windurst Woods
+				# F2 Heavens Tower
+				# F3 Ru'Lude Gardens
+				# F4 Upper Jeuno
+				# F5 Lower Jeuno
+				# F6 Port Jeuno
+				# F7 Rabao
+							# F8 Selbina
+							# F9 Mhaura
+# FA Kazham
+				# FB Hall of the Gods
+# FC Norg
+# FD San d'Oria Residential Area
+# FE Bastok Residential Area
+# FF Windurst Residential Area 

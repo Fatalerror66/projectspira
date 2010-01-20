@@ -1,0 +1,17 @@
+Missing Portals
+-----------------------------------------------------------------------
+Yellow	0x000F
+Yellow	0x0008
+Yellow	0x001D
+Yellow	0x0016
+
+All Blue Portals
+
+Gree Registration Portals
+0x0029 Welcome - Data Registered
+0x002A Registered
+0x002B Welcome - Cannot Register
+
+Green Portal Locations:
+-134, -32, -205
+ 134, -32, -205

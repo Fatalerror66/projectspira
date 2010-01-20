@@ -1,0 +1,17 @@
+Quests with a * have been scripted.
+
+Bastok LogID = 1
+
+*1 The Siren's Tear
+2 Beauty and the Galka
+*9 A Foreman's Best Friend
+*49 Altana's Sorrow
+*62 A Test of True Love  (Partially. Just done the chest part in Castle Zvahl and Labyrinth of Onzozo)
+65 Echo-warrior
+68 Inheritance
+69 The Walls of Your Mind
+70 Escort for Hire (Bastok)
+71 A Discerning Eye (Bastok)
+72 Trial-Size Trial by Earth
+*73 Faded Promises       (Partially. Just done the chest part in Palborough Mines)
+81 The naming Game

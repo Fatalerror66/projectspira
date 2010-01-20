@@ -1,0 +1,12 @@
+QUESTS
+*Curses, foiled... again!? (2)
++Curses, foiled a-golem!? (4)
+
+*Star Struck (2)
+-Blast from the Past (3)
+-Nothing Matters  (8)
+
+*To Bee or Not to Bee? (2)
+-Flower Child (1) (unsure if reward is possible right now; NPC doesn't function properly)
+-SMN flag (no weather)
+-SMN AF
